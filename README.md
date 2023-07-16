@@ -24,7 +24,7 @@
 - **VideoLLM: Modeling Video Sequence with Large Language Models**
 
   
-- **Learning Video Representations from Large Language Models**
+- **Learning Video Representations from Large Language Models**\
   [[paper]](https://arxiv.org/abs/2212.04501)
 
 - **LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**\
