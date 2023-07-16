@@ -15,7 +15,7 @@
 - **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions** [![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner)\
 ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
 
-- **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System** 
+- **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
   ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.14407) [[project page]](https://www.wangjunke.info/ChatVideo/)
 
 - **VideoChat: Chat-Centric Video Understanding** [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)\
