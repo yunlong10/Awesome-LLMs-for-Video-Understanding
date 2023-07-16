@@ -27,11 +27,13 @@
 - **Learning Video Representations from Large Language Models**
   [[paper]](https://arxiv.org/abs/2212.04501)
 
-- **LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**
-  [[paper]](https://arxiv.org/abs/2306.10354)
+- **LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**\
+ ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.10354)
 
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
   [[paper]](https://arxiv.org/abs/2204.00598)
+- **CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**\
+  [[paper]](https://arxiv.org/abs/2303.09713)https://arxiv.org/abs/2303.09713
 - 
 - 
 - 
