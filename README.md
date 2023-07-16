@@ -1,7 +1,7 @@
 # Awesome-Video-Understanding-with-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding** [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)\
-  [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+  [[paper]](https://arxiv.org/abs/2306.02858) [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 
 - **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)\
   ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
@@ -20,3 +20,18 @@
 
 - **VideoChat: Chat-Centric Video Understanding** [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)\
   ```arXiv 2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
+
+- **VideoLLM: Modeling Video Sequence with Large Language Models**
+
+  
+- **Learning Video Representations from Large Language Models**
+  [[paper]](https://arxiv.org/abs/2212.04501)
+
+- **LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**
+  [[paper]](https://arxiv.org/abs/2306.10354)
+
+- **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
+  [[paper]](https://arxiv.org/abs/2204.00598)
+- 
+- 
+- 
