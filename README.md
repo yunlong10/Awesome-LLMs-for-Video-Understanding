@@ -44,7 +44,17 @@
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**\
   [[paper]](https://arxiv.org/abs/2306.09093) [[code]](https://github.com/lyuchenyang/macaw-llm)
 
+
+
 ## Dataset
+
+- **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**\
+  [[paper]](https://arxiv.org/pdf/2307.06942v1.pdf) [[code]](https://github.com/opengvlab/internvideo)
+
+- **Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**\
+  [[paper]](https://arxiv.org/pdf/2306.04362v1.pdf) [[code]](https://github.com/x-plug/youku-mplug)
+
+
 
 
 ## Tasks
