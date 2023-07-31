@@ -38,4 +38,7 @@
   [[paper]](https://arxiv.org/abs/2303.09713)
   
 - **Generative Pretraining in Multimodality**\
-  [[paper]](https://arxiv.org/abs/2307.05222) 
+  [[paper]](https://arxiv.org/abs/2307.05222)
+
+- **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**\
+  [[paper]](https://arxiv.org/abs/2306.09093) [[code]](https://github.com/lyuchenyang/macaw-llm)
