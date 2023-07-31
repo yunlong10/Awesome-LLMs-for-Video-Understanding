@@ -62,5 +62,5 @@
 
 ## Tasks
 ||Video Captioning|Video Question Answering|
-|--|--|
+|--|--|--|
 |Video-LLaMA|||
