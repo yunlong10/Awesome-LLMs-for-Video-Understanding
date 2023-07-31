@@ -21,7 +21,7 @@
 - **VideoChat: Chat-Centric Video Understanding** [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)\
   ```arXiv 2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
 
-- **VideoLLM: Modeling Video Sequence with Large Language Models**
+- **VideoLLM: Modeling Video Sequence with Large Language Models**\
   [[paper]](https://arxiv.org/abs/2305.13292) [[code]](https://github.com/cg1177/videollm)
   
 - **Learning Video Representations from Large Language Models**\
