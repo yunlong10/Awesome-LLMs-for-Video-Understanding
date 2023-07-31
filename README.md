@@ -54,6 +54,8 @@
 - **Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**\
   [[paper]](https://arxiv.org/pdf/2306.04362v1.pdf) [[code]](https://github.com/x-plug/youku-mplug)
 
+- **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**\
+  [[paper]](https://arxiv.org/pdf/2305.18500v1.pdf) [[code]](https://github.com/txh-mercury/vast)
 
 
 
