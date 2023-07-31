@@ -44,7 +44,8 @@
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**\
   [[paper]](https://arxiv.org/abs/2306.09093) [[code]](https://github.com/lyuchenyang/macaw-llm)
 
-
+- **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**\
+  [[paper]](https://arxiv.org/abs/2302.00402v1) [[code]](https://github.com/X-PLUG/mPLUG-2)
 
 ## Dataset
 
