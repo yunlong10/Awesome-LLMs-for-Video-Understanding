@@ -33,7 +33,7 @@
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
   [[paper]](https://arxiv.org/abs/2204.00598)
 - **CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**\
-  [[paper]](https://arxiv.org/abs/2303.09713)https://arxiv.org/abs/2303.09713
+  [[paper]](https://arxiv.org/abs/2303.09713)
 - 
 - 
 - 
