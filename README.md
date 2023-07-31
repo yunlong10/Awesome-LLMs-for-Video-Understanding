@@ -22,7 +22,7 @@
   ```arXiv 2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
 
 - **VideoLLM: Modeling Video Sequence with Large Language Models**
-
+  [[paper]](https://arxiv.org/abs/2305.13292) [[code]](https://github.com/cg1177/videollm)
   
 - **Learning Video Representations from Large Language Models**\
   [[paper]](https://arxiv.org/abs/2212.04501)
@@ -32,8 +32,9 @@
 
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
   [[paper]](https://arxiv.org/abs/2204.00598)
+  
 - **CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**\
   [[paper]](https://arxiv.org/abs/2303.09713)
-- 
-- 
-- 
+  
+- **Generative Pretraining in Multimodality**\
+  [[paper]](https://arxiv.org/abs/2307.05222) 
