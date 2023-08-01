@@ -33,7 +33,7 @@
  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.10354)
 
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
-  [[paper]](https://arxiv.org/abs/2204.00598)
+  [[paper]](https://arxiv.org/abs/2204.00598) [[project page]](https://socraticmodels.github.io/)
   
 - **CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**\
   [[paper]](https://arxiv.org/abs/2303.09713)
