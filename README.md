@@ -25,7 +25,12 @@
 - **VideoLLM: Modeling Video Sequence with Large Language Models**\
   [[paper]](https://arxiv.org/abs/2305.13292) [[code]](https://github.com/cg1177/videollm)
 
-  
+- **Self-Chained Image-Language Model for Video Localization and Question Answering**\
+  [[paper]](https://arxiv.org/abs/2305.06988v1) [[code]](https://github.com/yui010206/sevila)
+
+- **VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**\
+  [[paper]](https://arxiv.org/abs/2304.08345v1) [[code]](https://github.com/TXH-mercury/VALOR) 
+
 - **Learning Video Representations from Large Language Models**\
   [[paper]](https://arxiv.org/abs/2212.04501)
 
@@ -47,7 +52,7 @@
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**\
   [[paper]](https://arxiv.org/abs/2302.00402v1) [[code]](https://github.com/X-PLUG/mPLUG-2)
 
-## Dataset
+## Dataset & Metrics
 
 - **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**\
   [[paper]](https://arxiv.org/pdf/2307.06942v1.pdf) [[code]](https://github.com/opengvlab/internvideo)
