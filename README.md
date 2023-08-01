@@ -76,6 +76,9 @@
 - **Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**\
   [[paper]](https://arxiv.org/abs/2305.13903)
 
+- **Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**\
+  [[paper]](https://arxiv.org/pdf/2306.11732.pdf) 
+  
 
 ## Dataset & Metrics
 
@@ -97,7 +100,7 @@
 - **FunQA: Towards Surprising Video Comprehension**\
   [[paper]](https://arxiv.org/pdf/2306.14899v1.pdf) [[code]](https://github.com/jingkang50/funqa)
 
-- **Video Understanding Datasets**\
+- **Video Understanding Datasets**\ Loading...
   [[paperswithcode]](https://paperswithcode.com/datasets?q=&v=lst&o=newest&task=video-understanding&page=1)
 
 ## Tasks
