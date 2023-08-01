@@ -52,6 +52,9 @@
 - **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**\
   [[paper]](https://arxiv.org/abs/2302.00402v1) [[code]](https://github.com/X-PLUG/mPLUG-2)
 
+- **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**\
+  [[paper]](https://arxiv.org/abs/2303.01903) [[code]](https://github.com/milvlg/prophet)
+
 ## Dataset & Metrics
 
 - **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**\
