@@ -61,6 +61,21 @@
 - **Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**\
   [[paper]](https://arxiv.org/abs/2307.06844) [[code]](https://github.com/anjsimmo/zero-shot-crime-detection)
 
+- **A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot**\
+  [[paper]](https://arxiv.org/abs/2305.09758)
+
+- **Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**\
+  [[paper]](https://arxiv.org/abs/2304.03754)
+
+- **Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**\
+  [[paper]](https://arxiv.org/abs/2306.11732)
+
+- **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners**\
+  [[paper]](https://arxiv.org/abs/2205.10747) [[code]](https://github.com/mikewangwzhl/vidil)
+
+- **Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**\
+  [[paper]](https://arxiv.org/abs/2305.13903)
+
 
 ## Dataset & Metrics
 
