@@ -88,7 +88,14 @@
 - **VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**\
   [[paper]](https://arxiv.org/pdf/2305.18500v1.pdf) [[code]](https://github.com/txh-mercury/vast)
 
+- **SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**\
+  [[paper]](https://arxiv.org/pdf/2307.16125v1.pdf) [[code]](https://github.com/ailab-cvc/seed-bench)
 
+- **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** (VideoInstruct (Video Instruction Dataset))\ 
+  [[paper]](https://arxiv.org/pdf/2306.05424v1.pdf) [[code]](https://github.com/mbzuai-oryx/video-chatgpt)
+
+- **FunQA: Towards Surprising Video Comprehension**\
+  [[paper]](https://arxiv.org/pdf/2306.14899v1.pdf) [[code]](https://github.com/jingkang50/funqa)
 
 ## Tasks
 ||Video Captioning|Video QA|
