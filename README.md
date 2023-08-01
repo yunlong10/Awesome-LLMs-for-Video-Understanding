@@ -55,6 +55,13 @@
 - **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**\
   [[paper]](https://arxiv.org/abs/2303.01903) [[code]](https://github.com/milvlg/prophet)
 
+- **MIMIC-IT: Multi-Modal In-Context Instruction Tuning**\
+  [[paper]](https://arxiv.org/abs/2306.05425) [[code]](https://github.com/luodian/otter)
+
+- **Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**\
+  [[paper]](https://arxiv.org/abs/2307.06844) [[code]](https://github.com/anjsimmo/zero-shot-crime-detection)
+
+
 ## Dataset & Metrics
 
 - **InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**\
