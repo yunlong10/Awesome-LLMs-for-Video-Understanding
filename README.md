@@ -75,9 +75,6 @@
 
 - **Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**\
   [[paper]](https://arxiv.org/abs/2305.13903)
-
-- **Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**\
-  [[paper]](https://arxiv.org/pdf/2306.11732.pdf) 
   
 
 ## Dataset & Metrics
