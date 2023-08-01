@@ -94,13 +94,18 @@
 - **SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**\
   [[paper]](https://arxiv.org/pdf/2307.16125v1.pdf) [[code]](https://github.com/ailab-cvc/seed-bench)
 
-- **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**\ (VideoInstruct (Video Instruction Dataset))
+- **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**\ 
+  (VideoInstruct (Video Instruction Dataset))
   [[paper]](https://arxiv.org/pdf/2306.05424v1.pdf) [[code]](https://github.com/mbzuai-oryx/video-chatgpt)
 
 - **FunQA: Towards Surprising Video Comprehension**\
   [[paper]](https://arxiv.org/pdf/2306.14899v1.pdf) [[code]](https://github.com/jingkang50/funqa)
 
-- **Video Understanding Datasets**\ Loading...
+- **VideoChat: Chat-Centric Video Understanding**\
+  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything)
+  
+- **Video Understanding Datasets**\
+  Loading...
   [[paperswithcode]](https://paperswithcode.com/datasets?q=&v=lst&o=newest&task=video-understanding&page=1)
 
 ## Tasks
