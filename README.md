@@ -97,6 +97,9 @@
 - **FunQA: Towards Surprising Video Comprehension**\
   [[paper]](https://arxiv.org/pdf/2306.14899v1.pdf) [[code]](https://github.com/jingkang50/funqa)
 
+- **Video Understanding Datasets**\
+  [[paperswithcode]](https://paperswithcode.com/datasets?q=&v=lst&o=newest&task=video-understanding&page=1)
+
 ## Tasks
 ||Video Captioning|Video QA|
 |--|--|--|
