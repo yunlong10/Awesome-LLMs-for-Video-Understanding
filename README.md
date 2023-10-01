@@ -33,7 +33,7 @@
 | [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models (VideoInstruct)**](https://arxiv.org/pdf/2306.05424v1.pdf) | - | - | [code](https://github.com/mbzuai-oryx/video-chatgpt) | - |
 | [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/pdf/2306.14899v1.pdf) | - | - | [code](https://github.com/jingkang50/funqa) | - |
 
-## Methods
+<!-- ## Methods
 - **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding** [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)\
   [[paper]](https://arxiv.org/abs/2306.02858) [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 
@@ -142,3 +142,4 @@
 ||Video Captioning|Video QA|
 |--|--|--|
 |Video-LLaMA|||
+-->
