@@ -1,5 +1,13 @@
 # Awesome-Video-Understanding-with-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!-- 
+
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - | 
+
+-->
+
 ## Methods
 - **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding** [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA)\
   [[paper]](https://arxiv.org/abs/2306.02858) [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
