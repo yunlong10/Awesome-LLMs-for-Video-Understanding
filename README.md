@@ -1,18 +1,18 @@
 # Awesome-Video-Understanding-with-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | arXiv 2023/06 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
-| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424) [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT) | arXiv 2023/06 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | - |
-| [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207) [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley) | arXiv 2023/06 | [code](https://github.com/RupertLuo/Valley) | - |
+| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 2023/06 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
+| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424) [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT) | 2023/06 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | - |
+| [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207) [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley) | 2023/06 | [code](https://github.com/RupertLuo/Valley) | - |
 | [**VLog: Video as a Long Document**](https://github.com/showlab/VLog) [![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog) | - | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
-| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) [![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv 2023/04 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | - |
-| [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) | arXiv 2023/04 | [project page](https://www.wangjunke.info/ChatVideo/) | - |
-| [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything) | arXiv 2023/05 | [code](https://github.com/OpenGVLab/Ask-Anything) | [demo](https://huggingface.co/spaces/ynhe/AskAnything) |
+| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) [![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | 2023/04 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | - |
+| [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) | 2023/04 | [project page](https://www.wangjunke.info/ChatVideo/) | - |
+| [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything) | 2023/05 | [code](https://github.com/OpenGVLab/Ask-Anything) | [demo](https://huggingface.co/spaces/ynhe/AskAnything) |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) | - | - | - |
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988v1) | - | - | - |
 | [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) | - | - | - |
 | [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501) | - | - | - |
-| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) | arXiv 2023/06 | - | - |
+| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) | 2023/06 | - | - |
 | [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/abs/2204.00598) [![Star](https://img.shields.io/github/stars/socraticmodels/socraticmodels.github.io.svg?style=social&label=Star)](https://socraticmodels.github.io/) | - | [project page](https://socraticmodels.github.io/) | - |
 | [**CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**](https://arxiv.org/abs/2303.09713) | - | - | - |
 | [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) | - | - | - |
@@ -38,22 +38,22 @@
   [[paper]](https://arxiv.org/abs/2306.02858) [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 
 - **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)\
-  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
+  ```2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
 
 - **VALLEY: Video Assistant with Large Language model Enhanced abilitY** [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)\
-```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.07207) [[code]](https://github.com/RupertLuo/Valley)
+```2023/06``` [[paper]](https://arxiv.org/abs/2306.07207) [[code]](https://github.com/RupertLuo/Valley)
 
 - **VLog: Video as a Long Document** [![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog)\
     [[code]](https://github.com/showlab/VLog) [[demo]](https://huggingface.co/spaces/TencentARC/VLog)
 
 - **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions** [![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner)\
-```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
+```2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
 
 - **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**\
-  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.14407) [[project page]](https://www.wangjunke.info/ChatVideo/)
+  ```2023/04``` [[paper]](https://arxiv.org/abs/2304.14407) [[project page]](https://www.wangjunke.info/ChatVideo/)
 
 - **VideoChat: Chat-Centric Video Understanding** [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)\
-  ```arXiv 2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
+  ```2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
 
 - **VideoLLM: Modeling Video Sequence with Large Language Models**\
   [[paper]](https://arxiv.org/abs/2305.13292) [[code]](https://github.com/cg1177/videollm)
@@ -68,7 +68,7 @@
   [[paper]](https://arxiv.org/abs/2212.04501)
 
 - **LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**\
- ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.10354)
+ ```2023/06``` [[paper]](https://arxiv.org/abs/2306.10354)
 
 - **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**\
   [[paper]](https://arxiv.org/abs/2204.00598) [[project page]](https://socraticmodels.github.io/)
