@@ -19,8 +19,8 @@ TBD: Taxonomy
 | [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) | 07/2023 | - | - |
 | [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093) | 06/2023 | [code](https://github.com/lyuchenyang/macaw-llm) | - |
 | [**mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**](https://arxiv.org/abs/2302.00402v1) | 02/2023 | [code](https://github.com/X-PLUG/mPLUG-2) | - |
-| [**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/abs/2303.01903) | - | [code](https://github.com/milvlg/prophet) | - |
-| [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425) | - | [code](https://github.com/luodian/otter) | - |
+| [**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/abs/2303.01903) | 03/2023 | [code](https://github.com/milvlg/prophet) | - |
+| [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425) | 06/2023 | [code](https://github.com/luodian/otter) | - |
 | [**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**](https://arxiv.org/abs/2307.06844) | 07/2023 | [code](https://github.com/anjsimmo/zero-shot-crime-detection) | - |
 | [**A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot**](https://arxiv.org/abs/2305.09758) | 05/2023 | - | - |
 | [**Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**](https://arxiv.org/abs/2304.03754) | 04/2023 | - | - |
