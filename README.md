@@ -27,9 +27,9 @@ TBD: Taxonomy
 | [**Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**](https://arxiv.org/abs/2306.11732) | 06/2023 | - | - |
 | [**Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners**](https://arxiv.org/abs/2205.10747) [![Code](https://img.shields.io/github/stars/mikewangwzhl/vidil.svg?style=social&label=Code)](https://github.com/mikewangwzhl/vidil) | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
 | [**Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**](https://arxiv.org/abs/2305.13903) | 05/2023 | - | - |
-| [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942v1) | 07/2023 | - | [code](https://github.com/opengvlab/internvideo) | - |
-| [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) | 06/2023 | - | [code](https://github.com/x-plug/youku-mplug) | - |
-| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1) | 05/2023 | - | [code](https://github.com/txh-mercury/vast) | - |
-| [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**](https://arxiv.org/abs/2307.16125v1) | 07/2023 | - | [code](https://github.com/ailab-cvc/seed-bench) | - |
-| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models (VideoInstruct)**](https://arxiv.org/abs/2306.05424v1) | 06/2023 | - | [code](https://github.com/mbzuai-oryx/video-chatgpt) | - |
-| [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/abs/2306.14899v1) | 06/2023 | - | [code](https://github.com/jingkang50/funqa) | - |
+| [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942v1) | 07/2023 | [code](https://github.com/opengvlab/internvideo) | - | - |
+| [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) | 06/2023 | [code](https://github.com/x-plug/youku-mplug) | - | - |
+| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1) | 05/2023 | [code](https://github.com/txh-mercury/vast) | - | - |
+| [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**](https://arxiv.org/abs/2307.16125v1) | 07/2023 | [code](https://github.com/ailab-cvc/seed-bench) | - | - |
+| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models (VideoInstruct)**](https://arxiv.org/abs/2306.05424v1) | 06/2023 | [code](https://github.com/mbzuai-oryx/video-chatgpt) | - | - |
+| [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/abs/2306.14899v1) | 06/2023 | [code](https://github.com/jingkang50/funqa) | - | - |
