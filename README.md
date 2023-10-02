@@ -1,5 +1,6 @@
 # Awesome-Video-Understanding-with-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 TBD: Taxonomy
+## Video Understanding
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
@@ -33,3 +34,9 @@ TBD: Taxonomy
 | [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**](https://arxiv.org/abs/2307.16125v1) | 07/2023 | [code](https://github.com/ailab-cvc/seed-bench) | - | - |
 | [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models (VideoInstruct)**](https://arxiv.org/abs/2306.05424v1) | 06/2023 | [code](https://github.com/mbzuai-oryx/video-chatgpt) | - | - |
 | [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/abs/2306.14899v1) | 06/2023 | [code](https://github.com/jingkang50/funqa) | - | - |
+
+## Video Generation
+|  Title  |  Date   |   Code   |   Data   |   Venue   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) | 07/2023 | - | - |
+| [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/abs/2309.05519) | 09/2023 | - | - |
