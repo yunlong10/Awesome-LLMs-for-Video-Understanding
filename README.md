@@ -41,5 +41,5 @@ TBD: Taxonomy
 ## Video Generation
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) | 07/2023 | - | - |
-| [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/abs/2309.05519) | 09/2023 | - | - |
+| [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) [![Star](https://img.shields.io/github/stars/baaivision/emu.svg?style=social&label=Star)](https://github.com/baaivision/emu) | 07/2023 | [code](https://github.com/baaivision/emu) | - |
+| [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/abs/2309.05519) [![Star](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT) | 09/2023 | [code](https://github.com/NExT-GPT/NExT-GPT) | - |
