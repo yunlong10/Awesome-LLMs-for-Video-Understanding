@@ -27,7 +27,7 @@ TBD: Taxonomy
 | **[CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos](https://arxiv.org/abs/2303.09713)**  | 03/2023 | [code](https://github.com/wade3han/champagne) | - |
 | **[Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2303.01903)**  | 03/2023 | [code](https://github.com/milvlg/prophet) | - |
 | **[mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video](https://arxiv.org/abs/2302.00402v1)**  | 02/2023 | [code](https://github.com/X-PLUG/mPLUG-2) | - |
-| [**Learning Video Representations from Large Language Models**] (https://arxiv.org/abs/2212.04501) | 12/2022 | code(https://github.com/facebookresearch/lavila) | - |
+| **[Learning Video Representations from Large Language Models] (https://arxiv.org/abs/2212.04501)** | 12/2022 | code(https://github.com/facebookresearch/lavila) | - |
 | **[Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)**  | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
 | **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  | 04/2022 | [project page](https://socraticmodels.github.io/) | - |
 
