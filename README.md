@@ -1,4 +1,4 @@
-# Awesome-Video-Understanding-with-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Large-Video-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 TBD: Taxonomy
 ## Video Understanding
 ### LLM as A Controller
