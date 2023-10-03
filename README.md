@@ -4,32 +4,48 @@ TBD: Taxonomy
 ### LLM as A Controller
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424) [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT) | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | - |
-| [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207) [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley) | 06/2023 | [code](https://github.com/RupertLuo/Valley) | - |
-| [**VLog: Video as a Long Document**](https://github.com/showlab/VLog) [![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog) | - | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
-| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227) [![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | - |
-| [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) | 04/2023 | [project page](https://www.wangjunke.info/ChatVideo/) | - |
-| [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything) | 2023/05 | [code](https://github.com/OpenGVLab/Ask-Anything) | [demo](https://huggingface.co/spaces/ynhe/AskAnything) |
-| [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) [![Star](https://img.shields.io/github/stars/cg1177/videollm.svg?style=social&label=Star)](https://github.com/cg1177/videollm) | 05/2023 | [code](https://github.com/cg1177/videollm) | - |
-| [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988v1) [![Star](https://img.shields.io/github/star/yui010206/sevila.svg?style=social&label=Star)](https://github.com/yui010206/sevila) | 05/2023 | [code](https://github.com/yui010206/sevila) | - |
-| [**Learning Video Representations from Large Language Models**] [![Star](https://img.shields.io/github/star/facebookresearch/lavila.svg?style=social&label=Star)](https://github.com/facebookresearch/lavila)(https://arxiv.org/abs/2212.04501) | 12/2022 | code(https://github.com/facebookresearch/lavila) | - |
-| [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/abs/2204.00598) [![Star](https://img.shields.io/github/stars/socraticmodels/socraticmodels.github.io.svg?style=social&label=Star)](https://socraticmodels.github.io/) | 04/2022 | [project page](https://socraticmodels.github.io/) | - |
-| [**CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos**](https://arxiv.org/abs/2303.09713) [![Star](https://img.shields.io/github/star/wade3han/champagne.svg?style=social&label=Star)](https://github.com/wade3han/champagne) | 03/2023 | [code](https://github.com/wade3han/champagne) | - |
-| [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093) [![Star](https://img.shields.io/github/star/lyuchenyang/macaw-llm.svg?style=social&label=Star)](https://github.com/lyuchenyang/macaw-llm) | 06/2023 | [code](https://github.com/lyuchenyang/macaw-llm) | - |
-| [**mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**](https://arxiv.org/abs/2302.00402v1) [![Star](https://img.shields.io/github/star/X-PLUG/mPLUG-2.svg?style=social&label=Star)](https://github.com/X-PLUG/mPLUG-2) | 02/2023 | [code](https://github.com/X-PLUG/mPLUG-2) | - |
-| [**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/abs/2303.01903) [![Star](https://img.shields.io/github/star/milvlg/prophet.svg?style=social&label=Star)](https://github.com/milvlg/prophet) | 03/2023 | [code](https://github.com/milvlg/prophet) | - |
-| [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425) [![Star](https://img.shields.io/github/star/luodian/otter.svg?style=social&label=Star)](https://github.com/luodian/otter) | 06/2023 | [code](https://github.com/luodian/otter) | - |
-| [**Garbage in, garbage out: Zero-shot detection of crime using Large Language Models**](https://arxiv.org/abs/2307.06844) [![Star](https://img.shields.io/github/star/anjsimmo/zero-shot-crime-detection.svg?style=social&label=Star)](https://github.com/anjsimmo/zero-shot-crime-detection) | 07/2023 | [code](https://github.com/anjsimmo/zero-shot-crime-detection) | - |
-| [**A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot**](https://arxiv.org/abs/2305.09758) | 05/2023 | - | - |
-| [**Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering**](https://arxiv.org/abs/2304.03754) | 04/2023 | - | - |
-| [**Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models**](https://arxiv.org/abs/2306.11732) | 06/2023 | - | - |
-| [**Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners**](https://arxiv.org/abs/2205.10747) [![Code](https://img.shields.io/github/stars/mikewangwzhl/vidil.svg?style=social&label=Code)](https://github.com/mikewangwzhl/vidil) | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
-| [**Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction**](https://arxiv.org/abs/2305.13903) | 05/2023 | - | - |
-| [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942v1) [![Star](https://img.shields.io/github/star/opengvlab/internvideo.svg?style=social&label=Star)](https://github.com/opengvlab/internvideo) | 07/2023 | [code](https://github.com/opengvlab/internvideo) | - | - |
-| [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) [![Star](https://img.shields.io/github/star/x-plug/youku-mplug.svg?style=social&label=Star)](https://github.com/x-plug/youku-mplug) | 06/2023 | [code](https://github.com/x-plug/youku-mplug) | - | - |
-| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1) [![Star](https://img.shields.io/github/star/txh-mercury/vast.svg?style=social&label=Star)](https://github.com/txh-mercury/vast) | 05/2023 | [code](https://github.com/txh-mercury/vast) | - | - |
-| [**SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension**](https://arxiv.org/abs/2307.16125v1) [![Star](https://img.shields.io/github/star/ailab-cvc/seed-bench.svg?style=social&label=Star)](https://github.com/ailab-cvc/seed-bench) | 07/2023 | [code](https://github.com/ailab-cvc/seed-bench) | - | - |
-| [**FunQA: Towards Surprising Video Comprehension**](https://arxiv.org/abs/2306.14899v1) [![Star](https://img.shields.io/github/star/jingkang50/funqa.svg?style=social&label=Star)](https://github.com/jingkang50/funqa) | 06/2023 | [code](https://github.com/jingkang50/funqa) | - | - |
+| **[Garbage in, garbage out: Zero-shot detection of crime using Large Language Models](https://arxiv.org/abs/2307.06844)**  | 07/2023 | [code](https://github.com/anjsimmo/zero-shot-crime-detection) | - |
+
+| **[InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation](https://arxiv.org/abs/2307.06942v1)**  | 07/2023 | [code](https://github.com/opengvlab/internvideo) | - | - |
+
+| **[SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension](https://arxiv.org/abs/2307.16125v1)**  | 07/2023 | [code](https://github.com/ailab-cvc/seed-bench) | - | - |
+
+| **[Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/abs/2306.05424)**  | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | - |
+| **[VALLEY: Video Assistant with Large Language model Enhanced abilitY](https://arxiv.org/abs/2306.07207)**  | 06/2023 | [code](https://github.com/RupertLuo/Valley) | - |
+
+| **[Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://arxiv.org/abs/2306.09093)**  | 06/2023 | [code](https://github.com/lyuchenyang/macaw-llm) | - |
+
+| **[Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models](https://arxiv.org/abs/2306.11732)** | 06/2023 | - | - |
+
+| **[MIMIC-IT: Multi-Modal In-Context Instruction Tuning](https://arxiv.org/abs/2306.05425)**  | 06/2023 | [code](https://github.com/luodian/otter) | - |
+
+| **[Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks](https://arxiv.org/abs/2306.04362v1)**  | 06/2023 | [code](https://github.com/x-plug/youku-mplug) | - | - |
+| **[FunQA: Towards Surprising Video Comprehension](https://arxiv.org/abs/2306.14899v1)**  | 06/2023 | [code](https://github.com/jingkang50/funqa) | - | - |
+
+| **[VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://arxiv.org/abs/2305.18500v1)**  | 05/2023 | [code](https://github.com/txh-mercury/vast) | - | - |
+
+| **[VideoChat: Chat-Centric Video Understanding](https://arxiv.org/abs/2305.06355)**  | 05/2023 | [code](https://github.com/OpenGVLab/Ask-Anything) | [demo](https://huggingface.co/spaces/ynhe/AskAnything) |
+| **[VideoLLM: Modeling Video Sequence with Large Language Models](https://arxiv.org/abs/2305.13292)**  | 05/2023 | [code](https://github.com/cg1177/videollm) | - |
+| **[Self-Chained Image-Language Model for Video Localization and Question Answering](https://arxiv.org/abs/2305.06988v1)**  | 05/2023 | [code](https://github.com/yui010206/sevila) | - |
+
+| **[A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot](https://arxiv.org/abs/2305.09758)** | 05/2023 | - | - |
+
+| **[Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/abs/2305.13903)** | 05/2023 | - | - |
+
+| **[Language Models are Causal Knowledge Extractors for Zero-shot Video Question Answering](https://arxiv.org/abs/2304.03754)** | 04/2023 | - | - |
+| **[VLog: Video as a Long Document](https://github.com/showlab/VLog)**  | 04/2023 | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
+| **[Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions](https://arxiv.org/abs/2304.04227)**  | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | - |
+| **[ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System](https://arxiv.org/abs/2304.14407)** | 04/2023 | [project page](https://www.wangjunke.info/ChatVideo/) | - |
+
+| **[CHAMPAGNE: Learning Real-world Conversation from Large-Scale Web Videos](https://arxiv.org/abs/2303.09713)**  | 03/2023 | [code](https://github.com/wade3han/champagne) | - |
+
+| **[Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2303.01903)**  | 03/2023 | [code](https://github.com/milvlg/prophet) | - |
+
+| **[mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video](https://arxiv.org/abs/2302.00402v1)**  | 02/2023 | [code](https://github.com/X-PLUG/mPLUG-2) | - |
+| [**Learning Video Representations from Large Language Models**] (https://arxiv.org/abs/2212.04501) | 12/2022 | code(https://github.com/facebookresearch/lavila) | - |
+
+| **[Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)**  | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
+| **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  | 04/2022 | [project page](https://socraticmodels.github.io/) | - |
 
 ### End-to-end Models
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
