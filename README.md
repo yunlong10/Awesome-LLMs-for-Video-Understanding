@@ -35,8 +35,8 @@ TBD: Taxonomy
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
-| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) | 06/2023 | - | - |
-| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) | 04/2023 | - | - |
+| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) [![Star](https://img.shields.io/github/stars/zjr2000/llmva-gebc.svg?style=social&label=Star)](https://github.com/zjr2000/llmva-gebc) | 06/2023 | [code](https://github.com/zjr2000/llmva-gebc) | - |
+| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | 04/2023 | [code](https://github.com/TXH-mercury/VALOR) | - |
 
 ## Video Generation
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
