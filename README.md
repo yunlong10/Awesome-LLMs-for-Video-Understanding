@@ -2,6 +2,8 @@
 TBD: Taxonomy
 ## Video Understanding
 ### LLM as A Controller
+|  Title  |  Date   |   Code   |   Data   |   Venue   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424) [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT) | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | - |
 | [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207) [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley) | 06/2023 | [code](https://github.com/RupertLuo/Valley) | - |
 | [**VLog: Video as a Long Document**](https://github.com/showlab/VLog) [![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog) | - | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
