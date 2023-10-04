@@ -1,7 +1,6 @@
 # Awesome-Large-Video-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 TBD: Taxonomy
 ## Video Understanding
-### LLM as A Controller
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **[Garbage in, garbage out: Zero-shot detection of crime using Large Language Models](https://arxiv.org/abs/2307.06844)**  | 07/2023 | [code](https://github.com/anjsimmo/zero-shot-crime-detection) | - |
@@ -31,7 +30,6 @@ TBD: Taxonomy
 | **[Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)**  | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
 | **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  | 04/2022 | [project page](https://socraticmodels.github.io/) | - |
 
-### End-to-end Models
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
