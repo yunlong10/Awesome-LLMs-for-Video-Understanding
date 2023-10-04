@@ -3,6 +3,9 @@ TBD: Taxonomy
 ## Video Understanding
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
+| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) [![Star](https://img.shields.io/github/stars/zjr2000/llmva-gebc.svg?style=social&label=Star)](https://github.com/zjr2000/llmva-gebc) | 06/2023 | [code](https://github.com/zjr2000/llmva-gebc) | - |
+| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | 04/2023 | [code](https://github.com/TXH-mercury/VALOR) | - |
 | **[Garbage in, garbage out: Zero-shot detection of crime using Large Language Models](https://arxiv.org/abs/2307.06844)**  | 07/2023 | [code](https://github.com/anjsimmo/zero-shot-crime-detection) | - |
 | **[InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation](https://arxiv.org/abs/2307.06942v1)**  | 07/2023 | [code](https://github.com/opengvlab/internvideo) | - | - |
 | **[SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension](https://arxiv.org/abs/2307.16125v1)**  | 07/2023 | [code](https://github.com/ailab-cvc/seed-bench) | - | - |
@@ -29,12 +32,6 @@ TBD: Taxonomy
 | **[Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501)** | 12/2022 | [code](https://github.com/facebookresearch/lavila) | - |
 | **[Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)**  | 05/2022 | [code](https://github.com/mikewangwzhl/vidil) | - |
 | **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  | 04/2022 | [project page](https://socraticmodels.github.io/) | - |
-
-|  Title  |  Date   |   Code   |   Data   |   Venue   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
-| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) [![Star](https://img.shields.io/github/stars/zjr2000/llmva-gebc.svg?style=social&label=Star)](https://github.com/zjr2000/llmva-gebc) | 06/2023 | [code](https://github.com/zjr2000/llmva-gebc) | - |
-| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | 04/2023 | [code](https://github.com/TXH-mercury/VALOR) | - |
 
 ## Video Generation
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
