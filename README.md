@@ -1,4 +1,4 @@
-# Awesome-Large-Video-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Large-Video-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 TBD: Taxonomy
 ## Video Understanding
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
