@@ -1,5 +1,10 @@
 # Awesome-Large-Video-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-TBD: Taxonomy
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Video Understanding](#video-understanding)
+
+- [Video Generation](#video-generation)
+
+---
 ## Video Understanding
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
