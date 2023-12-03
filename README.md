@@ -1,4 +1,4 @@
-# Awesome-Large-Video-Language-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLMs-for-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Video Understanding](#video-understanding)
 
