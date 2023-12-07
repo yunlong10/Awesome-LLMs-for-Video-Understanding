@@ -44,3 +44,11 @@
 | [**NExT-GPT: Any-to-Any Multimodal LLM**](https://arxiv.org/abs/2309.05519) [![Star](https://img.shields.io/github/stars/NExT-GPT/NExT-GPT.svg?style=social&label=Star)](https://github.com/NExT-GPT/NExT-GPT) | 09/2023 | [code](https://github.com/NExT-GPT/NExT-GPT) | - |
 | [**Generative Pretraining in Multimodality**](https://arxiv.org/abs/2307.05222) [![Star](https://img.shields.io/github/stars/baaivision/emu.svg?style=social&label=Star)](https://github.com/baaivision/emu) | 07/2023 | [code](https://github.com/baaivision/emu) | - |
 
+## Dataset
+|  Title  |  Date   |   Code   |   Data   |   Venue   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952) [![Star](https://img.shields.io/github/stars/antoyang/VidChapters.svg?style=social&label=Star)](https://github.com/antoyang/VidChapters) | 09/2023 | [code](https://github.com/antoyang/VidChapters) | - |
+| [**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942v1) [![Star](https://img.shields.io/github/stars/opengvlab/internvideo.svg?style=social&label=Star)](https://github.com/opengvlab/internvideo) | 07/2023 | [code](https://github.com/opengvlab/internvideo) | - |
+| [**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345v1) [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | 07/2023 | [code](https://github.com/TXH-mercury/VALOR) | - |
+| [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) [![Star](https://img.shields.io/github/stars/x-plug/youku-mplug.svg?style=social&label=Star)](https://github.com/x-plug/youku-mplug) | 07/2023 | [code](https://github.com/x-plug/youku-mplug) | - |
+| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1) [![Star](https://img.shields.io/github/stars/txh-mercury/vast.svg?style=social&label=Star)](https://github.com/txh-mercury/vast) | 07/2023 | [code](https://github.com/txh-mercury/vast) | - |
