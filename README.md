@@ -1,12 +1,14 @@
 # Awesome-LLMs-for-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/figures/milestone.png)
+![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/figures/timeline.png)
+
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Video Understanding](#video-understanding)
-
-- [Video Generation](#video-generation)
-
-- [Dataset](#dataset)
-
-- [Evaluation](#evaluation)
+- [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
+  - [Video Understanding](#video-understanding)
+  - [Video Generation](#video-generation)
+  - [Dataset](#dataset)
+  - [Evaluation](#evaluation)
 ---
 ## Video Understanding
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
