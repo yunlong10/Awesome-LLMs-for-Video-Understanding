@@ -1,6 +1,6 @@
 # Awesome-LLMs-for-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/figures/milestone.png)
+![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/milestone.png)
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
@@ -10,7 +10,7 @@
   - [Evaluation](#evaluation)
 ---
 ## Video Understanding
-![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/figures/timeline.png)
+![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline.png)
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | - |
