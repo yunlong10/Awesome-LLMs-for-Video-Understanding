@@ -42,19 +42,31 @@
 |**[Merlin:Empowering Multimodal LLMs with Foresight Minds](https://arxiv.org/abs/2312.00589v1)**| Merlin | 12/2023| - | arXiv |
 
 ### 👀 Vid-LLM Instruction Tuning
+#### Fine-tuning with Connective Adapters
 |  Title  |  Model   |   Date   |   Code   |   Venue  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) |Video-LLaMA | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | arXiv |
 | [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207)[![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)  | VALLEY | 06/2023 | [code](https://github.com/RupertLuo/Valley) | - | arXiv|
 | [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424)[![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)  | Video-ChatGPT | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | arXiv |
-#### Fine-tuning with Connective Adapters
+| [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093)[![Star](https://img.shields.io/github/stars/lyuchenyang/macaw-llm.svg?style=social&label=Star)](https://github.com/lyuchenyang/macaw-llm)  |Macaw-LLM| 06/2023 | [code](https://github.com/lyuchenyang/macaw-llm) | arXiv |
+| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) [![Star](https://img.shields.io/github/stars/zjr2000/llmva-gebc.svg?style=social&label=Star)](https://github.com/zjr2000/llmva-gebc) | LLMVA-GEBC | 06/2023 | [code](https://github.com/zjr2000/llmva-gebc) | CVPR  |
 
 #### Fine-tuning with Insertive Adapters
-
+|  Title  |  Model   |   Date   |   Code   |   Venue  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425)[![Star](https://img.shields.io/github/stars/luodian/otter.svg?style=social&label=Star)](https://github.com/luodian/otter) | Otter | 06/2023 | [code](https://github.com/luodian/otter) | arXiv |
+| [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292)[![Star](https://img.shields.io/github/stars/cg1177/videollm.svg?style=social&label=Star)](https://github.com/cg1177/videollm)  |VideoLLM| 05/2023 | [code](https://github.com/cg1177/videollm) | arXiv |
 #### Fine-tuning with Hybrid Adapters
-
+|  Title  |  Model   |   Date   |   Code   |   Venue  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|[**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445v1)[![Star](https://img.shields.io/github/stars/huangb23/vtimellm.svg?style=social&label=Star)](https://github.com/huangb23/vtimellm)|VTimeLLM|11/2023|[code](https://github.com/huangb23/vtimellm)|arXiv|
+|[**GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation**](https://arxiv.org/abs/2311.16511v1)|GPT4Video|11/2023|-|arXiv|
 
 ### 🦾 Hybrid Methods
+|  Title  |  Model   |   Date   |   Code   |   Venue  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355)[![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)  | VideoChat | 05/2023 | [code](https://github.com/OpenGVLab/Ask-Anything)  [demo](https://huggingface.co/spaces/ynhe/AskAnything) |arXiv|
+|[**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**](https://arxiv.org/abs/2311.13435v2)[![Star](https://img.shields.io/github/stars/mbzuai-oryx/video-llava.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/video-llava) | PG-Video-LLaVA | 11/2023 | [code](https://github.com/mbzuai-oryx/video-llava) | arXiv |
 
 ---
 
