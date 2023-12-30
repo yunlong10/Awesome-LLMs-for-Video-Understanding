@@ -30,7 +30,8 @@
 | **[Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions](https://arxiv.org/abs/2304.04227)** | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
 | **[VLog: Video as a Long Document](https://github.com/showlab/VLog)**  | VLog | 04/2023 | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
 | **[ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System](https://arxiv.org/abs/2304.14407)** | ChatVideo | 04/2023 | [project page](https://www.wangjunke.info/ChatVideo/) | arXiv |
-|**[MM-VID: Advancing Video Understanding with GPT-4V(ision)](https://arxiv.org/abs/2310.19773)**| 10/2023 | - | - |
+|**[MM-VID: Advancing Video Understanding with GPT-4V(ision)](https://arxiv.org/abs/2310.19773)**| MM-VID | 10/2023 | - | arXiv |
+|**[MISAR: A Multimodal Instructional System with Augmented Reality](https://arxiv.org/abs/2310.11699v1)**| MISAR | 10/2023 | [project page](https://github.com/nguyennm1024/misar) | ICCV |
 
 ### Video Generation
 |  Title  |  Date   |   Code   |   Data   |   Venue   |
