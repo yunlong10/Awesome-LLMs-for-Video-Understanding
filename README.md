@@ -4,15 +4,14 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
-  - [Vid-LLMs: Models](#vid-llms-models)
-    - [LLM-based Video Agents](#llm-based-video-agents)
-    - [Video Generation](#video-generation)
-    - [Vid-LLM Pretraining](#vid-llm-pretraining)
-    - [Vid-LLM Instruction Tuning](#vid-llm-instruction-tuning)
+  - [😎 Vid-LLMs: Models](#-vid-llms-models)
+    - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
+    - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
+    - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
       - [Fine-tuning with Connective Adapters](#fine-tuning-with-connective-adapters)
       - [Fine-tuning with Insertive Adapters](#fine-tuning-with-insertive-adapters)
       - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
-    - [Hybrid Methods](#hybrid-methods)
+    - [🦾 Hybrid Methods](#-hybrid-methods)
   - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
       - [Recognition and Anticipation](#recognition-and-anticipation)
       - [Captioning and Description](#captioning-and-description)
@@ -21,9 +20,10 @@
 
 
 
-## Vid-LLMs: Models
+
+## 😎 Vid-LLMs: Models 
 ![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline.png)
-### LLM-based Video Agents
+### 🤖 LLM-based Video Agents
 |  Title  |  Model   |   Date   |   Code   |   Venue  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  |Socratic Models| 04/2022 | [project page](https://socraticmodels.github.io/) |arXiv|
@@ -33,14 +33,9 @@
 |**[MM-VID: Advancing Video Understanding with GPT-4V(ision)](https://arxiv.org/abs/2310.19773)**| MM-VID | 10/2023 | - | arXiv |
 |**[MISAR: A Multimodal Instructional System with Augmented Reality](https://arxiv.org/abs/2310.11699v1)**| MISAR | 10/2023 | [project page](https://github.com/nguyennm1024/misar) | ICCV |
 
-### Video Generation
-|  Title  |  Date   |   Code   |   Data   |   Venue   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+### 👾 Vid-LLM Pretraining
 
-
-### Vid-LLM Pretraining
-
-### Vid-LLM Instruction Tuning
+### 👀 Vid-LLM Instruction Tuning
 
 #### Fine-tuning with Connective Adapters
 
@@ -49,7 +44,7 @@
 #### Fine-tuning with Hybrid Adapters
 
 
-### Hybrid Methods
+### 🦾 Hybrid Methods
 
 ---
 
