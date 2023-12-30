@@ -26,17 +26,27 @@
 ### 🤖 LLM-based Video Agents
 |  Title  |  Model   |   Date   |   Code   |   Venue  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)**  |Socratic Models| 04/2022 | [project page](https://socraticmodels.github.io/) |arXiv|
-| **[Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions](https://arxiv.org/abs/2304.04227)** | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
-| **[VLog: Video as a Long Document](https://github.com/showlab/VLog)**  | VLog | 04/2023 | [demo](https://huggingface.co/spaces/TencentARC/VLog) | - |
-| **[ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System](https://arxiv.org/abs/2304.14407)** | ChatVideo | 04/2023 | [project page](https://www.wangjunke.info/ChatVideo/) | arXiv |
-|**[MM-VID: Advancing Video Understanding with GPT-4V(ision)](https://arxiv.org/abs/2310.19773)**| MM-VID | 10/2023 | - | arXiv |
-|**[MISAR: A Multimodal Instructional System with Augmented Reality](https://arxiv.org/abs/2310.11699v1)**| MISAR | 10/2023 | [project page](https://github.com/nguyennm1024/misar) | ICCV |
+| [**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**](https://arxiv.org/abs/2204.00598)  |Socratic Models| 04/2022 | [project page](https://socraticmodels.github.io/) |arXiv|
+| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227)[![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
+| [**VLog: Video as a Long Document**](https://github.com/showlab/VLog)[![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog)  | VLog | 04/2023 | [code](https://huggingface.co/spaces/TencentARC/VLog) | - |
+|[**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) | ChatVideo | 04/2023 | [project page](https://www.wangjunke.info/ChatVideo/) | arXiv |
+|[**MM-VID: Advancing Video Understanding with GPT-4V(ision)**](https://arxiv.org/abs/2310.19773)| MM-VID | 10/2023 | - | arXiv |
+|[**MISAR: A Multimodal Instructional System with Augmented Reality**](https://arxiv.org/abs/2310.11699v1)[![Star](https://img.shields.io/github/stars/nguyennm1024/misar.svg?style=social&label=Star)](https://github.com/nguyennm1024/misar)| MISAR | 10/2023 | [project page](https://github.com/nguyennm1024/misar) | ICCV |
 
 ### 👾 Vid-LLM Pretraining
+|  Title  |  Model   |   Date   |   Code   |   Venue  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| **[Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501)** |LaViLa| 12/2022 | [code](https://github.com/facebookresearch/lavila) | CVPR |
+|**[Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning](https://arxiv.org/abs/2302.14115)**|Vid2Seq|02/2023|[code](https://antoyang.github.io/vid2seq.html)|CVPR|
+| **[VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://arxiv.org/abs/2305.18500v1)**  | VAST | 05/2023 | [code](https://github.com/txh-mercury/vast) | NeurIPS|
+|**[Merlin:Empowering Multimodal LLMs with Foresight Minds](https://arxiv.org/abs/2312.00589v1)**| Merlin | 12/2023| - | arXiv |
 
 ### 👀 Vid-LLM Instruction Tuning
-
+|  Title  |  Model   |   Date   |   Code   |   Venue  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/Video-LLaMA) |Video-LLaMA | 06/2023 | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA) | arXiv |
+| [**VALLEY: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207)[![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)  | VALLEY | 06/2023 | [code](https://github.com/RupertLuo/Valley) | - | arXiv|
+| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424)[![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)  | Video-ChatGPT | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | arXiv |
 #### Fine-tuning with Connective Adapters
 
 #### Fine-tuning with Insertive Adapters
