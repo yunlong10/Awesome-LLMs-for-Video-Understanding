@@ -41,10 +41,10 @@
 ### 👾 Vid-LLM Pretraining
 |  Title  |  Model   |   Date   |   Code   |   Venue  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| **[Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501)** |LaViLa| 12/2022 | [code](https://github.com/facebookresearch/lavila) | CVPR |
-|**[Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning](https://arxiv.org/abs/2302.14115)**|Vid2Seq|02/2023|[code](https://antoyang.github.io/vid2seq.html)|CVPR|
-| **[VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://arxiv.org/abs/2305.18500v1)**  | VAST | 05/2023 | [code](https://github.com/txh-mercury/vast) | NeurIPS|
-|**[Merlin:Empowering Multimodal LLMs with Foresight Minds](https://arxiv.org/abs/2312.00589v1)**| Merlin | 12/2023| - | arXiv |
+| [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) |LaViLa| 12/2022 | [code](https://github.com/facebookresearch/lavila) | CVPR |
+|[**Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**](https://arxiv.org/abs/2302.14115)|Vid2Seq|02/2023|[code](https://antoyang.github.io/vid2seq.html)|CVPR|
+| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1)[![Star](https://img.shields.io/github/stars/txh-mercury/vast?style=social&label=Star)](https://github.com/txh-mercury/vast)  | VAST | 05/2023 | [code](https://github.com/txh-mercury/vast) | NeurIPS|
+|[**Merlin:Empowering Multimodal LLMs with Foresight Minds**](https://arxiv.org/abs/2312.00589v1)| Merlin | 12/2023| - | arXiv |
 
 ### 👀 Vid-LLM Instruction Tuning
 #### Fine-tuning with Connective Adapters
