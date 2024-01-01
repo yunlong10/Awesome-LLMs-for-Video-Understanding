@@ -104,6 +104,7 @@
       title={Video Understanding with Large Language Models: A Survey}, 
       author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
       journal={arXiv preprint arXiv:2312.17432},
-      year={2023}
+      year={2023},
+      url={http://arxiv.org/abs/2312.17432}
 }
 ```
