@@ -7,7 +7,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
-      - [🔥Video Understanding with Large Language Models: A Survey](#video-understanding-with-large-language-models-a-survey)
+    - [🔥Video Understanding with Large Language Models: A Survey](#video-understanding-with-large-language-models-a-survey)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
     - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
     - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
@@ -21,6 +21,7 @@
       - [Captioning and Description](#captioning-and-description)
       - [Grounding and Retrieval](#grounding-and-retrieval)
       - [Question Answering](#question-answering)
+
 
 
 
