@@ -103,6 +103,9 @@
 | [**FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation**](https://arxiv.org/abs/2311.01813) [![Star](https://img.shields.io/github/stars/llyx97/fetv.svg?style=social&label=Star)](https://github.com/llyx97/fetv) | 11/2023 | [code](https://github.com/llyx97/fetv) | - |
 | [**VLM-Eval: A General Evaluation on Video Large Language Models**](https://arxiv.org/abs/2311.11865)  | 11/2023 | - | - | -->
 
+### Contributing
+We welcome everyone to contribute to this repository and help improve it. You can submit pull requests to add new papers, projects, and helpful materials, or to correct any errors that you may find. Please make sure that your pull requests follow the "Title|Model|Date|Code|Venue" format. Thank you for your valuable contributions!
+
 If you find our survey useful for your research, please cite the following paper:
 ```bibtex
 @article{vidllmsurvey,
