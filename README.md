@@ -100,9 +100,9 @@
 
 
 ```bibtex
-@article{tang2023video,
+@article{vidllmsurvey,
       title={Video Understanding with Large Language Models: A Survey}, 
-      author={Yunlong Tang and Jing Bi and Siting Xu and Luchuan Song and Susan Liang and Teng Wang and Daoan Zhang and Jie An and Jingyang Lin and Rongyi Zhu and Ali Vosoughi and Chao Huang and Zeliang Zhang and Feng Zheng and Jianguo Zhang and Ping Luo and Jiebo Luo and Chenliang Xu},
+      author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
       journal={arXiv preprint arXiv:2312.17432},
       year={2023}
 }
