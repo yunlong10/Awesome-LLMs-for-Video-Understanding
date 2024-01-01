@@ -55,6 +55,9 @@
 | [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424)[![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)  | Video-ChatGPT | 06/2023 | [code](https://github.com/mbzuai-oryx/Video-ChatGPT) | arXiv |
 | [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093)[![Star](https://img.shields.io/github/stars/lyuchenyang/macaw-llm.svg?style=social&label=Star)](https://github.com/lyuchenyang/macaw-llm)  |Macaw-LLM| 06/2023 | [code](https://github.com/lyuchenyang/macaw-llm) | arXiv |
 | [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) [![Star](https://img.shields.io/github/stars/zjr2000/llmva-gebc.svg?style=social&label=Star)](https://github.com/zjr2000/llmva-gebc) | LLMVA-GEBC | 06/2023 | [code](https://github.com/zjr2000/llmva-gebc) | CVPR  |
+|[**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362) [![Star](https://img.shields.io/github/stars/x-plug/youku-mplug.svg?style=social&label=Star)](https://github.com/x-plug/youku-mplug) | mPLUG-video | 06/2023 | [code](https://github.com/x-plug/youku-mplug) | arXiv |
+|[**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/abs/2307.16449)[![Star](https://img.shields.io/github/stars/rese1f/MovieChat.svg?style=social&label=Star)](https://github.com/rese1f/MovieChat) | MovieChat | 07/2023 | [code](https://github.com/rese1f/MovieChat) | arXiv |
+
 
 #### Fine-tuning with Insertive Adapters
 |  Title  |  Model   |   Date   |   Code   |   Venue  |
