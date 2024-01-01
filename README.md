@@ -102,3 +102,14 @@
 | [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) [![Star](https://img.shields.io/github/stars/x-plug/youku-mplug.svg?style=social&label=Star)](https://github.com/x-plug/youku-mplug) | 07/2023 | [code](https://github.com/x-plug/youku-mplug) | - |
 | [**FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation**](https://arxiv.org/abs/2311.01813) [![Star](https://img.shields.io/github/stars/llyx97/fetv.svg?style=social&label=Star)](https://github.com/llyx97/fetv) | 11/2023 | [code](https://github.com/llyx97/fetv) | - |
 | [**VLM-Eval: A General Evaluation on Video Large Language Models**](https://arxiv.org/abs/2311.11865)  | 11/2023 | - | - | -->
+
+If you find our survey useful for your research, please cite the following paper:
+```bibtex
+@article{vidllmsurvey,
+      title={Video Understanding with Large Language Models: A Survey}, 
+      author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
+      journal={arXiv preprint arXiv:2312.17432},
+      year={2023},
+      url={http://arxiv.org/abs/2312.17432}
+}
+```
