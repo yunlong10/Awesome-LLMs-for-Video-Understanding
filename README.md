@@ -100,12 +100,10 @@
 
 
 ```
-@misc{tang2023video,
+@article{tang2023video,
       title={Video Understanding with Large Language Models: A Survey}, 
       author={Yunlong Tang and Jing Bi and Siting Xu and Luchuan Song and Susan Liang and Teng Wang and Daoan Zhang and Jie An and Jingyang Lin and Rongyi Zhu and Ali Vosoughi and Chao Huang and Zeliang Zhang and Feng Zheng and Jianguo Zhang and Ping Luo and Jiebo Luo and Chenliang Xu},
-      year={2023},
-      eprint={2312.17432},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      journal={arXiv preprint arXiv:2312.17432},
+      year={2023}
 }
 ```
