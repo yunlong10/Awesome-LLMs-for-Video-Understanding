@@ -99,7 +99,7 @@
 | [**VLM-Eval: A General Evaluation on Video Large Language Models**](https://arxiv.org/abs/2311.11865)  | 11/2023 | - | - | -->
 
 
-```
+```bibtex
 @article{tang2023video,
       title={Video Understanding with Large Language Models: A Survey}, 
       author={Yunlong Tang and Jing Bi and Siting Xu and Luchuan Song and Susan Liang and Teng Wang and Daoan Zhang and Jie An and Jingyang Lin and Rongyi Zhu and Ali Vosoughi and Chao Huang and Zeliang Zhang and Feng Zheng and Jianguo Zhang and Ping Luo and Jiebo Luo and Chenliang Xu},
