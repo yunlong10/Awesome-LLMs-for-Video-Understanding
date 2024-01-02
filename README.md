@@ -21,6 +21,7 @@
       - [Captioning and Description](#captioning-and-description)
       - [Grounding and Retrieval](#grounding-and-retrieval)
       - [Question Answering](#question-answering)
+    - [Contributing](#contributing)
 
 
 
@@ -86,8 +87,14 @@
 ## Tasks, Datasets, and Benchmarks
 
 #### Recognition and Anticipation
-|  Title  |  Date   |   Code   |   Data   |   Venue   |
+|  Name  |  Paper  |   Date   |   Link   |   Venue   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|**Charades**|[**Hollywood in homes: Crowdsourcing data collection for activity understanding**](https://arxiv.org/abs/1604.01753v3)|2016|[Link](http://vuchallenge.org/charades.html)|ECCV|
+|**YouTube8M**|[**YouTube-8M: A Large-Scale Video Classification Benchmark**](https://arxiv.org/abs/1609.08675v1)|2016|[Link](https://research.google.com/youtube8m/download.html)|-|
+|**ActivityNet**|[**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**](https://openaccess.thecvf.com/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)|2015|[Link](http://activity-net.org/)|CVPR|
+|**Kinetics-GEBC**|[**GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval**](https://arxiv.org/abs/2204.00486v4)|2022|[Link](https://github.com/showlab/geb-plus)|ECCV|
+|**Kinetics-400**|[**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950)|2017|[Link](https://paperswithcode.com/dataset/kinetics-400-1)|-|
+
 #### Captioning and Description
 
 #### Grounding and Retrieval
