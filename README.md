@@ -1,7 +1,7 @@
 # Awesome-LLMs-for-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### 🔥Video Understanding with Large Language Models: A Survey
-**[Paper](https://arxiv.org/pdf/2312.17432.pdf)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
+**[Paper](https://arxiv.org/pdf/2312.17432v2.pdf)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
 
 ![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/milestone.png)
 
@@ -121,6 +121,5 @@ If you find our survey useful for your research, please cite the following paper
       author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
       journal={arXiv preprint arXiv:2312.17432},
       year={2023},
-      url={http://arxiv.org/abs/2312.17432}
 }
 ```
