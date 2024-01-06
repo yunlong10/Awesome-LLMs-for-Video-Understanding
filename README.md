@@ -34,9 +34,6 @@
     - [Video-based Large Language Models Benchmark](#video-llm-benchmark)
   - [Contributing](#contributing)
 
-
-
-
 ## 😎 Vid-LLMs: Models 
 
 ![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline.png)
@@ -138,9 +135,10 @@
 | [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005) | 12/2023 |     [code](https://github.com/OpenGVLab/Ask-Anything)      |                -                 |
 
 ## Contributing
-### 📑 Citation
 
 We welcome everyone to contribute to this repository and help improve it. You can submit pull requests to add new papers, projects, and helpful materials, or to correct any errors that you may find. Please make sure that your pull requests follow the "Title|Model|Date|Code|Venue" format. Thank you for your valuable contributions!
+
+### 📑 Citation
 
 If you find our survey useful for your research, please cite the following paper:
 
