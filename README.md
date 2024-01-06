@@ -7,7 +7,7 @@
 > *<sup>1</sup>University of Rochester, <sup>2</sup>Southern University of Science and Technology, <sup>3</sup>The University of Hong Kong*
 
 <h5 align="center">  
-    
+
  **[Paper](https://arxiv.org/pdf/2312.17432v2.pdf)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
 
 </h5>
@@ -48,6 +48,7 @@
 | [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) |      ChatVideo      | 04/2023 |    [project page](https://www.wangjunke.info/ChatVideo/)     | arXiv |
 | [**MM-VID: Advancing Video Understanding with GPT-4V(ision)**](https://arxiv.org/abs/2310.19773) |       MM-VID        | 10/2023 |                              -                               | arXiv |
 | [**MISAR: A Multimodal Instructional System with Augmented Reality**](https://arxiv.org/abs/2310.11699v1)[![Star](https://img.shields.io/github/stars/nguyennm1024/misar.svg?style=social&label=Star)](https://github.com/nguyennm1024/misar) |        MISAR        | 10/2023 |    [project page](https://github.com/nguyennm1024/misar)     | ICCV  |
+| [**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**](https://arxiv.org/abs/2312.17117) | Grounding-Prompter  | 12/2023 |                              -                               | arXiv |
 
 ### 👾 Vid-LLM Pretraining
 
@@ -108,13 +109,14 @@
 
 #### Recognition and Anticipation
 
-| Name              |                            Paper                             | Date |                            Link                             | Venue |
-| :---------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :---: |
-| **Charades**      | [**Hollywood in homes: Crowdsourcing data collection for activity understanding**](https://arxiv.org/abs/1604.01753v3) | 2016 |        [Link](http://vuchallenge.org/charades.html)         | ECCV  |
-| **YouTube8M**     | [**YouTube-8M: A Large-Scale Video Classification Benchmark**](https://arxiv.org/abs/1609.08675v1) | 2016 | [Link](https://research.google.com/youtube8m/download.html) |   -   |
-| **ActivityNet**   | [**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**](https://openaccess.thecvf.com/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf) | 2015 |              [Link](http://activity-net.org/)               | CVPR  |
-| **Kinetics-GEBC** | [**GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval**](https://arxiv.org/abs/2204.00486v4) | 2022 |         [Link](https://github.com/showlab/geb-plus)         | ECCV  |
-| **Kinetics-400**  | [**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950) | 2017 |  [Link](https://paperswithcode.com/dataset/kinetics-400-1)  |   -   |
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+| **Charades**       | [**Hollywood in homes: Crowdsourcing data collection for activity understanding**](https://arxiv.org/abs/1604.01753v3) | 2016 |        [Link](http://vuchallenge.org/charades.html)         |  ECCV   |
+| **YouTube8M**      | [**YouTube-8M: A Large-Scale Video Classification Benchmark**](https://arxiv.org/abs/1609.08675v1) | 2016 | [Link](https://research.google.com/youtube8m/download.html) |    -    |
+| **ActivityNet**    | [**ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding**](https://openaccess.thecvf.com/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf) | 2015 |              [Link](http://activity-net.org/)               |  CVPR   |
+| **Kinetics-GEBC**  | [**GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval**](https://arxiv.org/abs/2204.00486v4) | 2022 |         [Link](https://github.com/showlab/geb-plus)         |  ECCV   |
+| **Kinetics-400**   | [**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950) | 2017 |  [Link](https://paperswithcode.com/dataset/kinetics-400-1)  |    -    |
+| **VidChapters-7M** | [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952) | 2023 |     [Link](https://antoyang.github.io/vidchapters.html)     | NeurIPS |
 
 #### Captioning and Description
 
