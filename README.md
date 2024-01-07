@@ -17,7 +17,7 @@
 <font size=5><center><b> Table of Contents </b> </center></font>
 
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
-  - [🔥Video Understanding with Large Language Models: A Survey](#video-understanding-with-large-language-models-a-survey)
+    - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
     - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
     - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
@@ -27,12 +27,15 @@
       - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
     - [🦾 Hybrid Methods](#-hybrid-methods)
   - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
-    - [Recognition and Anticipation](#recognition-and-anticipation)
-    - [Captioning and Description](#captioning-and-description)
-    - [Grounding and Retrieval](#grounding-and-retrieval)
-    - [Question Answering](#question-answering)
-    - [Video-based Large Language Models Benchmark](#video-llm-benchmark)
+      - [Recognition and Anticipation Datasets](#recognition-and-anticipation-datasets)
+      - [Captioning and Description Datasets](#captioning-and-description-datasets)
+      - [Grounding and Retrieval](#grounding-and-retrieval)
+      - [Question Answering](#question-answering)
+      - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
   - [Contributing](#contributing)
+    - [📑 Citation](#-citation)
+    - [🌟 Star History](#-star-history)
+    - [♥️ Contributors](#️-contributors)
 
 ## 😎 Vid-LLMs: Models 
 
@@ -107,7 +110,7 @@
 
 ## Tasks, Datasets, and Benchmarks
 
-#### Recognition and Anticipation
+#### Recognition and Anticipation Datasets
 
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
 | :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
@@ -118,8 +121,24 @@
 | **Kinetics-400**   | [**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950) | 2017 |  [Link](https://paperswithcode.com/dataset/kinetics-400-1)  |    -    |
 | **VidChapters-7M** | [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952) | 2023 |     [Link](https://antoyang.github.io/vidchapters.html)     | NeurIPS |
 
-#### Captioning and Description
-
+#### Captioning and Description Datasets
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+|**Microsoft Research Video Description Corpus (MSVD)**|[**Collecting Highly Parallel Data for Paraphrase Evaluation**](https://aclanthology.org/P11-1020.pdf)|2011|[Link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/#data)|ACL|
+|**Microsoft Research Video-to-Text (MSR-VTT)**|[**MSR-VTT: A Large Video Description Dataset for Bridging Video and Language**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)|2016|[Link](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)|CVPR|
+|**Tumblr GIF (TGIF)**|[**TGIF: A New Dataset and Benchmark on Animated GIF Description**](https://arxiv.org/abs/1604.02748v2)|2016|[Link](https://github.com/raingo/TGIF-Release)|CVPR|
+|**Charades**|[**Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding**](https://arxiv.org/abs/1604.01753v3)|2016|[Link](https://prior.allenai.org/projects/charades)||
+|**Charades-Ego**|[**Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos**](https://arxiv.org/abs/1804.09626)|2018|[Link](https://prior.allenai.org/projects/charades-ego)||
+<!-- |**ActivityNet Captions**|
+|**HowTo100m**|
+|**Movie Audio Descriptions (MAD)**|
+|**YouCook2**|
+|**MovieNet**|
+|**Youku-mPLUG**|
+|**Video Timeline Tags (ViTT)**|
+|**TVSum**|
+|**SumMe**|
+|**VideoXum**| -->
 
 #### Grounding and Retrieval
 
