@@ -27,10 +27,11 @@
       - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
     - [🦾 Hybrid Methods](#-hybrid-methods)
   - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
-      - [Recognition and Anticipation Datasets](#recognition-and-anticipation-datasets)
-      - [Captioning and Description Datasets](#captioning-and-description-datasets)
+      - [Recognition and Anticipation](#recognition-and-anticipation)
+      - [Captioning and Description](#captioning-and-description)
       - [Grounding and Retrieval](#grounding-and-retrieval)
       - [Question Answering](#question-answering)
+      - [Video Instruction Tuning](#video-instruction-tuning)
       - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
   - [Contributing](#contributing)
     - [📑 Citation](#-citation)
@@ -110,7 +111,7 @@
 
 ## Tasks, Datasets, and Benchmarks
 
-#### Recognition and Anticipation Datasets
+#### Recognition and Anticipation
 
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
 | :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
@@ -121,7 +122,7 @@
 | **Kinetics-400**   | [**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950) | 2017 |  [Link](https://paperswithcode.com/dataset/kinetics-400-1)  |    -    |
 | **VidChapters-7M** | [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952) | 2023 |     [Link](https://antoyang.github.io/vidchapters.html)     | NeurIPS |
 
-#### Captioning and Description Datasets
+#### Captioning and Description
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
 | :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
 |**Microsoft Research Video Description Corpus (MSVD)**|[**Collecting Highly Parallel Data for Paraphrase Evaluation**](https://aclanthology.org/P11-1020.pdf)|2011|[Link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/#data)|ACL|
@@ -129,20 +130,22 @@
 |**Tumblr GIF (TGIF)**|[**TGIF: A New Dataset and Benchmark on Animated GIF Description**](https://arxiv.org/abs/1604.02748v2)|2016|[Link](https://github.com/raingo/TGIF-Release)|CVPR|
 |**Charades**|[**Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding**](https://arxiv.org/abs/1604.01753v3)|2016|[Link](https://prior.allenai.org/projects/charades)||
 |**Charades-Ego**|[**Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos**](https://arxiv.org/abs/1804.09626)|2018|[Link](https://prior.allenai.org/projects/charades-ego)||
-<!-- |**ActivityNet Captions**|
-|**HowTo100m**|
-|**Movie Audio Descriptions (MAD)**|
-|**YouCook2**|
-|**MovieNet**|
-|**Youku-mPLUG**|
-|**Video Timeline Tags (ViTT)**|
-|**TVSum**|
-|**SumMe**|
-|**VideoXum**| -->
+|**ActivityNet Captions**|[**Dense-Captioning Events in Videos**](https://arxiv.org/abs/1705.00754)|2017|[Link](https://cs.stanford.edu/people/ranjaykrishna/densevid/)|ICCV|
+|**HowTo100m**|[**HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips**](https://arxiv.org/abs/1906.03327)|2019|[Link](https://www.di.ens.fr/willow/research/howto100m/)|ICCV|
+|**Movie Audio Descriptions (MAD)**|[**MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions**](https://arxiv.org/abs/2112.00431)|2021|[Link](https://github.com/Soldelli/MAD)|CVPR|
+|**YouCook2**|[**Towards Automatic Learning of Procedures from Web Instructional Videos**](https://arxiv.org/abs/1703.09788)|2017|[Link](http://youcook2.eecs.umich.edu/)|AAAI|
+|**MovieNet**|[**MovieNet: A Holistic Dataset for Movie Understanding**](https://arxiv.org/abs/2007.10937)|2020|[Link](https://movienet.github.io/)|ECCV|
+|**Youku-mPLUG**|[**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362)|2023|[Link](https://github.com/X-PLUG/Youku-mPLUG)||
+|**Video Timeline Tags (ViTT)**|[**Multimodal Pretraining for Dense Video Captioning**](https://arxiv.org/abs/2011.11760)|2020|[Link](https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT)|AACL-IJCNLP|
+|**TVSum**|[**TVSum: Summarizing web videos using titles**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)|2015|[Link](https://github.com/yalesong/tvsum)|CVPR|
+|**SumMe**|[**Creating Summaries from User Videos**](https://www.semanticscholar.org/paper/Creating-Summaries-from-User-Videos-Gygli-Grabner/799bf307438ec2171e6f0bd5b8040f678d5b28da)|2014|[Link](http://www.vision.ee.ethz.ch/~gyglim/vsum/)|ECCV|
+|**VideoXum**|[**VideoXum: Cross-modal Visual and Textural Summarization of Videos**](https://arxiv.org/abs/2303.12060)|2023|[Link](https://videoxum.github.io/)|IEEE Trans Multimedia|
 
 #### Grounding and Retrieval
 
 #### Question Answering
+
+#### Video Instruction Tuning
 
 #### Video-based Large Language Models Benchmark
 
