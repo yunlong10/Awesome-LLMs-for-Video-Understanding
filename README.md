@@ -90,7 +90,7 @@
 
 | Title                                                        |  Model   |  Date   |                    Code                    | Venue |
 | :----------------------------------------------------------- | :------: | :-----: | :----------------------------------------: | :---: |
-| [**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425)[![Star](https://img.shields.io/github/stars/luodian/otter.svg?style=social&label=Star)](https://github.com/luodian/otter) |  Otter   | 06/2023 |  [code](https://github.com/luodian/otter)  | arXiv |
+| [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726v1)[![Star](https://img.shields.io/github/stars/luodian/otter.svg?style=social&label=Star)](https://github.com/luodian/otter) |  Otter   | 06/2023 |  [code](https://github.com/luodian/otter)  | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292)[![Star](https://img.shields.io/github/stars/cg1177/videollm.svg?style=social&label=Star)](https://github.com/cg1177/videollm) | VideoLLM | 05/2023 | [code](https://github.com/cg1177/videollm) | arXiv |
 
 #### Fine-tuning with Hybrid Adapters
@@ -130,14 +130,14 @@
 |**Microsoft Research Video Description Corpus (MSVD)**|[**Collecting Highly Parallel Data for Paraphrase Evaluation**](https://aclanthology.org/P11-1020.pdf)|2011|[Link](https://www.cs.utexas.edu/users/ml/clamp/videoDescription/#data)|ACL|
 |**Microsoft Research Video-to-Text (MSR-VTT)**|[**MSR-VTT: A Large Video Description Dataset for Bridging Video and Language**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)|2016|[Link](https://www.microsoft.com/en-us/research/publication/msr-vtt-a-large-video-description-dataset-for-bridging-video-and-language/)|CVPR|
 |**Tumblr GIF (TGIF)**|[**TGIF: A New Dataset and Benchmark on Animated GIF Description**](https://arxiv.org/abs/1604.02748v2)|2016|[Link](https://github.com/raingo/TGIF-Release)|CVPR|
-|**Charades**|[**Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding**](https://arxiv.org/abs/1604.01753v3)|2016|[Link](https://prior.allenai.org/projects/charades)||
-|**Charades-Ego**|[**Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos**](https://arxiv.org/abs/1804.09626)|2018|[Link](https://prior.allenai.org/projects/charades-ego)||
+|**Charades**|[**Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding**](https://arxiv.org/abs/1604.01753v3)|2016|[Link](https://prior.allenai.org/projects/charades)|ECCV|
+|**Charades-Ego**|[**Actor and Observer: Joint Modeling of First and Third-Person Videos**](https://arxiv.org/abs/1804.0962)|2018|[Link](https://prior.allenai.org/projects/charades-ego)|CVPR|
 |**ActivityNet Captions**|[**Dense-Captioning Events in Videos**](https://arxiv.org/abs/1705.00754)|2017|[Link](https://cs.stanford.edu/people/ranjaykrishna/densevid/)|ICCV|
 |**HowTo100m**|[**HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips**](https://arxiv.org/abs/1906.03327)|2019|[Link](https://www.di.ens.fr/willow/research/howto100m/)|ICCV|
 |**Movie Audio Descriptions (MAD)**|[**MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions**](https://arxiv.org/abs/2112.00431)|2021|[Link](https://github.com/Soldelli/MAD)|CVPR|
 |**YouCook2**|[**Towards Automatic Learning of Procedures from Web Instructional Videos**](https://arxiv.org/abs/1703.09788)|2017|[Link](http://youcook2.eecs.umich.edu/)|AAAI|
 |**MovieNet**|[**MovieNet: A Holistic Dataset for Movie Understanding**](https://arxiv.org/abs/2007.10937)|2020|[Link](https://movienet.github.io/)|ECCV|
-|**Youku-mPLUG**|[**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362)|2023|[Link](https://github.com/X-PLUG/Youku-mPLUG)||
+|**Youku-mPLUG**|[**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362)|2023|[Link](https://github.com/X-PLUG/Youku-mPLUG)|arXiv|
 |**Video Timeline Tags (ViTT)**|[**Multimodal Pretraining for Dense Video Captioning**](https://arxiv.org/abs/2011.11760)|2020|[Link](https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT)|AACL-IJCNLP|
 |**TVSum**|[**TVSum: Summarizing web videos using titles**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)|2015|[Link](https://github.com/yalesong/tvsum)|CVPR|
 |**SumMe**|[**Creating Summaries from User Videos**](https://www.semanticscholar.org/paper/Creating-Summaries-from-User-Videos-Gygli-Grabner/799bf307438ec2171e6f0bd5b8040f678d5b28da)|2014|[Link](http://www.vision.ee.ethz.ch/~gyglim/vsum/)|ECCV|
