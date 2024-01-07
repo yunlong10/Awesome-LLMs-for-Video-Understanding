@@ -32,6 +32,8 @@
       - [Grounding and Retrieval](#grounding-and-retrieval)
       - [Question Answering](#question-answering)
       - [Video Instruction Tuning](#video-instruction-tuning)
+        - [Pretraining Dataset](#pretraining-dataset)
+        - [Fine-tuning Dataset](#fine-tuning-dataset)
       - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
   - [Contributing](#contributing)
     - [📑 Citation](#-citation)
@@ -142,10 +144,40 @@
 |**VideoXum**|[**VideoXum: Cross-modal Visual and Textural Summarization of Videos**](https://arxiv.org/abs/2303.12060)|2023|[Link](https://videoxum.github.io/)|IEEE Trans Multimedia|
 
 #### Grounding and Retrieval
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+|**Epic-Kitchens-100**|[**Rescaling Egocentric Vision**](https://arxiv.org/abs/2006.13256v4)|2021|[Link](https://epic-kitchens.github.io/2021)|IJCV|
+|**VCR (Visual Commonsense Reasoning)**|[**From Recognition to Cognition: Visual Commonsense Reasoning**](https://arxiv.org/abs/1811.10830v2)|2019|[Link](https://visualcommonsense.com/)|CVPR|
+|**Ego4D-MQ and Ego4D-NLQ**|[**Ego4D: Around the World in 3,000 Hours of Egocentric Video**](https://ai.meta.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception/)|2021|[Link](https://ego4d-data.org/)|CVPR|
+|**Vid-STG**|[**Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**](https://arxiv.org/abs/2001.06891)|2020|[Link](https://github.com/Guaranteer/VidSTG-Dataset)|CVPR|
+|**Charades-STA**|[**TALL: Temporal Activity Localization via Language Query**](https://arxiv.org/abs/1705.02101)|2017|[Link](https://github.com/jiyanggao/TALL)|ICCV|
+|**DiDeMo**|[**Localizing Moments in Video with Natural Language**](https://arxiv.org/abs/1708.01641)|2017|[Link](https://github.com/LisaAnne/TemporalLanguageRelease)|ICCV|
 
 #### Question Answering
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+|**MSVD-QA**|[**Video Question Answering via Gradually Refined Attention over Appearance and Motion**](https://dl.acm.org/doi/10.1145/3123266.3123427)|2017|[Link](https://github.com/xudejing/video-question-answering)|ACM Multimedia|
+|**MSRVTT-QA**|[**Video Question Answering via Gradually Refined Attention over Appearance and Motion**](https://dl.acm.org/doi/10.1145/3123266.3123427)|2017|[Link](https://github.com/xudejing/video-question-answering)|ACM Multimedia|
+|**TGIF-QA**|[**TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering**](https://arxiv.org/abs/1704.04497)|2017|[Link](https://github.com/YunseokJANG/tgif-qa)|CVPR|
+|**ActivityNet-QA**|[**ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering**](https://arxiv.org/abs/1906.02467)|2019|[Link](https://github.com/MILVLG/activitynet-qa)|AAAI|
+|**Pororo-QA**|[**DeepStory: Video Story QA by Deep Embedded Memory Networks**](https://arxiv.org/abs/1707.00836)|2017|[Link](https://github.com/Kyung-Min/PororoQA)|IJCAI|
+|**TVQA**|[**TVQA: Localized, Compositional Video Question Answering**](https://arxiv.org/abs/1809.01696)|2018|[Link](https://tvqa.cs.unc.edu/)|EMNLP|
 
 #### Video Instruction Tuning
+##### Pretraining Dataset
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+|**VidChapters-7M**|[**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952)|2023|[Link](https://antoyang.github.io/vidchapters.html)|NeurIPS|
+|**VALOR-1M**|[**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**](https://arxiv.org/abs/2304.08345)|2023|[Link](https://github.com/TXH-mercury/VALOR)|arXiv|
+|**Youku-mPLUG**|[**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362)|2023|[Link](https://github.com/X-PLUG/Youku-mPLUG)|arXiv|
+|**InternVid**|[**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**](https://arxiv.org/abs/2307.06942)|2023|[Link](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)|arXiv|
+|**VAST-27M**|[**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500)|2023|[Link](https://github.com/TXH-mercury/VAST)|NeurIPS|
+
+##### Fine-tuning Dataset
+| Name               |                            Paper                             | Date |                            Link                             |  Venue  |
+| :----------------- | :----------------------------------------------------------: | :--: | :---------------------------------------------------------: | :-----: |
+|**MIMIC-IT**|[**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**](https://arxiv.org/abs/2306.05425)|2023|[Link](https://github.com/luodian/otter)|arXiv|
+|**VideoInstruct100K**|[**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/pdf/2306.05424)|2023|[Link](https://huggingface.co/datasets/MBZUAI/VideoInstruct-100K)|arXiv|
 
 #### Video-based Large Language Models Benchmark
 
