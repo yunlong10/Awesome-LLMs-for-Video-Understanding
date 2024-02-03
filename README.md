@@ -42,7 +42,7 @@
 
 ## 😎 Vid-LLMs: Models 
 
-![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline.png)
+![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline_2401.png)
 
 ### 🤖 LLM-based Video Agents
 
