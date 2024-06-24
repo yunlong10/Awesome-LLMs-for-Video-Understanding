@@ -191,6 +191,7 @@
 
 | Title                                                        |  Date   |                            Code                            |              Venue               |
 | :----------------------------------------------------------- | :-----: | :--------------------------------------------------------: | :------------------------------: |
+| [**LVBench: An Extreme Long Video Understanding Benchmark**](https://arxiv.org/abs/2406.08035) | 06/2024 |    [code](https://github.com/THUDM/LVBench)    |                -                 |
 | [**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**](https://arxiv.org/abs/2311.16103) | 11/2023 |    [code](https://github.com/PKU-YuanGroup/Video-Bench)    |                -                 |
 | [**Perception Test: A Diagnostic Benchmark for Multimodal Video Models**](https://arxiv.org/abs/2305.13786) | 05/2023 | [code](https://github.com/google-deepmind/perception_test) | NeurIPS 2023, ICCV 2023 Workshop |
 | [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362v1) [![Star](https://img.shields.io/github/stars/x-plug/youku-mplug.svg?style=social&label=Star)](https://github.com/x-plug/youku-mplug) | 07/2023 |       [code](https://github.com/x-plug/youku-mplug)        |                -                 |
