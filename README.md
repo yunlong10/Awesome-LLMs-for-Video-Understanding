@@ -12,7 +12,7 @@
 
 </h5>
 
-![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/milestone.png)
+![image](./img/milestone.png)
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 
@@ -42,7 +42,7 @@
 
 ## 😎 Vid-LLMs: Models 
 
-![image](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/blob/main/img/timeline_2401.png)
+![image](./img/timeline.png)
 
 ### 🤖 LLM-based Video Agents
 
