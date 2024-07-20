@@ -18,6 +18,7 @@
 
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
+  - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
     - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
     - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
@@ -39,6 +40,12 @@
     - [📑 Citation](#-citation)
     - [🌟 Star History](#-star-history)
     - [♥️ Contributors](#️-contributors)
+
+
+## Why we need Vid-LLMs?
+
+![image](./img/tasks.png)
+
 
 ## 😎 Vid-LLMs: Models 
 
