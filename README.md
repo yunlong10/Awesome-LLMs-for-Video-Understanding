@@ -55,7 +55,7 @@
 | [**MM-VID: Advancing Video Understanding with GPT-4V(ision)**](https://arxiv.org/abs/2310.19773) |       MM-VID        | 10/2023 |                              -                               | arXiv |
 | [**MISAR: A Multimodal Instructional System with Augmented Reality**](https://arxiv.org/abs/2310.11699v1)[![Star](https://img.shields.io/github/stars/nguyennm1024/misar.svg?style=social&label=Star)](https://github.com/nguyennm1024/misar) |        MISAR        | 10/2023 |    [project page](https://github.com/nguyennm1024/misar)     | ICCV  |
 | [**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**](https://arxiv.org/abs/2312.17117) | Grounding-Prompter  | 12/2023 |                              -                               | arXiv |
-| [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | Navid  | 02/2024 |                              -                               | arXiv |
+| [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | NaVid  | 02/2024 |     [project page](https://pku-epic.github.io/NaVid/)                         -      | RSS |
 | [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481) | VideoAgent  | 03/2024 |                              [project page](https://videoagent.github.io/)                               | arXiv |
 
 
