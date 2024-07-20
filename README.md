@@ -150,6 +150,7 @@
 |**TVSum**|[**TVSum: Summarizing web videos using titles**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)|2015|[Link](https://github.com/yalesong/tvsum)|CVPR|
 |**SumMe**|[**Creating Summaries from User Videos**](https://www.semanticscholar.org/paper/Creating-Summaries-from-User-Videos-Gygli-Grabner/799bf307438ec2171e6f0bd5b8040f678d5b28da)|2014|[Link](http://www.vision.ee.ethz.ch/~gyglim/vsum/)|ECCV|
 |**VideoXum**|[**VideoXum: Cross-modal Visual and Textural Summarization of Videos**](https://arxiv.org/abs/2303.12060)|2023|[Link](https://videoxum.github.io/)|IEEE Trans Multimedia|
+|**Multi-Source Video Captioning (MSVC)**|[**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)|2024|[Link](https://huggingface.co/datasets/DAMO-NLP-SG/Multi-Source-Video-Captioning)|arXiv|
 
 #### Grounding and Retrieval
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
