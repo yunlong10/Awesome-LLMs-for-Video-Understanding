@@ -90,6 +90,7 @@
 | [**AutoAD: Movie Description in Context**](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AutoAD_Movie_Description_in_Context_CVPR_2023_paper.pdf) |    AutoAD     | 06/2023 |     [code](https://github.com/TengdaHan/AutoAD)      | CVPR  |
 | [**AutoAD II: The Sequel - Who, When, and What in Movie Audio Description**](https://openaccess.thecvf.com//content/ICCV2023/papers/Han_AutoAD_II_The_Sequel_-_Who_When_and_What_in_ICCV_2023_paper.pdf) |   AutoAD II   | 10/2023 |                          -                           | ICCV  |
 | [**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**](https://arxiv.org/abs/2310.05863v2)[![Star](https://img.shields.io/github/stars/the-anonymous-bs/favor.svg?style=social&label=Star)](https://github.com/the-anonymous-bs/favor) |     FAVOR     | 10/2023 |  [code](https://github.com/the-anonymous-bs/favor)   | arXiv |
+| [**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)[![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |     VideoLLaMA2     | 06/2024 |  [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)   | arXiv |
 
 
 #### Fine-tuning with Insertive Adapters
@@ -149,6 +150,7 @@
 |**TVSum**|[**TVSum: Summarizing web videos using titles**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)|2015|[Link](https://github.com/yalesong/tvsum)|CVPR|
 |**SumMe**|[**Creating Summaries from User Videos**](https://www.semanticscholar.org/paper/Creating-Summaries-from-User-Videos-Gygli-Grabner/799bf307438ec2171e6f0bd5b8040f678d5b28da)|2014|[Link](http://www.vision.ee.ethz.ch/~gyglim/vsum/)|ECCV|
 |**VideoXum**|[**VideoXum: Cross-modal Visual and Textural Summarization of Videos**](https://arxiv.org/abs/2303.12060)|2023|[Link](https://videoxum.github.io/)|IEEE Trans Multimedia|
+|**Multi-Source Video Captioning (MSVC)**|[**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)|2024|[Link](https://huggingface.co/datasets/DAMO-NLP-SG/Multi-Source-Video-Captioning)|arXiv|
 
 #### Grounding and Retrieval
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
