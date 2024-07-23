@@ -20,6 +20,7 @@
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
   - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
+    - [📑 Citation](#-citation)
     - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
     - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
     - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
@@ -37,7 +38,6 @@
         - [Fine-tuning Dataset](#fine-tuning-dataset)
       - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
   - [Contributing](#contributing)
-    - [📑 Citation](#-citation)
     - [🌟 Star History](#-star-history)
     - [♥️ Contributors](#️-contributors)
 
@@ -50,6 +50,19 @@
 ## 😎 Vid-LLMs: Models 
 
 ![image](./img/timeline.png)
+
+### 📑 Citation
+
+If you find our survey useful for your research, please cite the following paper:
+
+```bibtex
+@article{vidllmsurvey,
+      title={Video Understanding with Large Language Models: A Survey}, 
+      author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
+      journal={arXiv preprint arXiv:2312.17432},
+      year={2023},
+}
+```
 
 ### 🤖 LLM-based Video Agents
 
@@ -214,18 +227,6 @@
 
 We welcome everyone to contribute to this repository and help improve it. You can submit pull requests to add new papers, projects, and helpful materials, or to correct any errors that you may find. Please make sure that your pull requests follow the "Title|Model|Date|Code|Venue" format. Thank you for your valuable contributions!
 
-### 📑 Citation
-
-If you find our survey useful for your research, please cite the following paper:
-
-```bibtex
-@article{vidllmsurvey,
-      title={Video Understanding with Large Language Models: A Survey}, 
-      author={Tang, Yunlong and Bi, Jing and Xu, Siting and Song, Luchuan and Liang, Susan and Wang, Teng and Zhang, Daoan and An, Jie and Lin, Jingyang and Zhu, Rongyi and Vosoughi, Ali and Huang, Chao and Zhang, Zeliang and Zheng, Feng and Zhang, Jianguo and Luo, Ping and Luo, Jiebo and Xu, Chenliang},
-      journal={arXiv preprint arXiv:2312.17432},
-      year={2023},
-}
-```
 
 ### 🌟 Star History
 
