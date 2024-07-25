@@ -140,9 +140,10 @@ If you find our survey useful for your research, please cite the following paper
 
 ### 🦾 Training-free Methods
 
-| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
-| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/abs/2407.15841) |         -           | 07/2024 | [arXiv](https://arxiv.org/abs/2407.15841)                    | arXiv |
+| Title                                                        |        Model        |  Date   | Code | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :--: | :---: |
+| [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/abs/2407.15841) |   SlowFast-LLaVA    | 07/2024 |  -   | arXiv |
+
 
 ---
 
