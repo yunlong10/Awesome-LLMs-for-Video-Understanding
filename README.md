@@ -28,6 +28,7 @@
       - [Fine-tuning with Insertive Adapters](#fine-tuning-with-insertive-adapters)
       - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
     - [🦾 Hybrid Methods](#-hybrid-methods)
+    - [Training-free Methods](#-training-free-methods)
   - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
       - [Recognition and Anticipation](#recognition-and-anticipation)
       - [Captioning and Description](#captioning-and-description)
@@ -136,6 +137,12 @@ If you find our survey useful for your research, please cite the following paper
 | [**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**](https://arxiv.org/abs/2312.02051)[![Star](https://img.shields.io/github/stars/RenShuhuai-Andy/TimeChat.svg?style=social&label=Star)](https://github.com/RenShuhuai-Andy/TimeChat) |      TimeChat       | 12/2023 |     [code](https://github.com/RenShuhuai-Andy/TimeChat)      | CVPR |
 | [**Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding**](https://arxiv.org/pdf/2401.00901.pdf)[![Star](https://img.shields.io/github/stars/TalalWasim/Video-GroundingDINO.svg?style=social&label=Star)](https://github.com/TalalWasim/Video-GroundingDINO) | Video-GroundingDINO | 12/2023 |  [code](https://github.com/TalalWasim/Video-GroundingDINO)   | arXiv |
 | [**A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot**](https://aclanthology.org/2023.emnlp-main.608/) | Video4096 | 05/2023 |  | EMNLP |
+
+### 🦾 Training-free Methods
+
+| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/abs/2407.15841) |         -           | 07/2024 | [arXiv](https://arxiv.org/abs/2407.15841)                    | arXiv |
 
 ---
 
