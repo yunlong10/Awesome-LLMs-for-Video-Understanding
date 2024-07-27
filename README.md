@@ -12,6 +12,12 @@
 
 </h5>
 
+![image](./img/milestone.png)
+
+
+## 📢 News
+[07/23/2024]
+
 📢 We've recently updated our survey: “Video Understanding with Large Language Models: A Survey”!
 
 ✨ This comprehensive survey covers video understanding techniques powered by large language models (Vid-LLMs), training strategies, relevant tasks, datasets, benchmarks, and evaluation methods, and discusses the applications of Vid-LLMs across various domains.
@@ -25,7 +31,6 @@
 
 Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
 
-![image](./img/milestone.png)
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 
