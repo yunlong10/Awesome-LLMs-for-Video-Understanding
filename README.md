@@ -12,6 +12,19 @@
 
 </h5>
 
+📢 We've recently updated our survey: “Video Understanding with Large Language Models: A Survey”!
+
+✨ This comprehensive survey covers video understanding techniques powered by large language models (Vid-LLMs), training strategies, relevant tasks, datasets, benchmarks, and evaluation methods, and discusses the applications of Vid-LLMs across various domains.
+
+🚀 **What's New in This Update**:
+✅ Updated to include around 100 additional Vid-LLMs and 15 new benchmarks as of June 2024.
+✅ Introduced a novel taxonomy for Vid-LLMs based on video representation and LLM functionality.
+✅ Added a Preliminary chapter, reclassifying video understanding tasks from the perspectives of granularity and language involvement, and enhanced the LLM Background section.
+✅ Added a new Training Strategies chapter, removing adapters as a factor for model classification.
+✅ All figures and tables have been redesigned.
+
+Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
+
 ![image](./img/milestone.png)
 
 <font size=5><center><b> Table of Contents </b> </center></font>
