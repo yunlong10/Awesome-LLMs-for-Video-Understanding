@@ -248,6 +248,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005) | 12/2023 |     [code](https://github.com/OpenGVLab/Ask-Anything)      |                -                 |
 | [**TempCompass: Do Video LLMs Really Understand Videos?**](https://arxiv.org/abs/2403.00476) [![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)](https://github.com/llyx97/TempCompass) | 03/2024 |           [code](https://github.com/llyx97/TempCompass)           |                ACL 2024                 |
 | [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/abs/2405.21075) [![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)](https://github.com/BradyFU/Video-MME) | 06/2024 |           [code](https://github.com/BradyFU/Video-MME)           |                -                 |
+| [**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**](https://arxiv.org/abs/2406.16338) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer) | 06/2024 |           [code](https://github.com/patrick-tssn/VideoHallucer)           |                -                 |
 
 ## Contributing
 
