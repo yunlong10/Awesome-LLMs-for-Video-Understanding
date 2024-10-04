@@ -218,6 +218,8 @@ If you find our survey useful for your research, please cite the following paper
 |**ActivityNet-QA**|[**ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering**](https://arxiv.org/abs/1906.02467)|2019|[Link](https://github.com/MILVLG/activitynet-qa)|AAAI|
 |**Pororo-QA**|[**DeepStory: Video Story QA by Deep Embedded Memory Networks**](https://arxiv.org/abs/1707.00836)|2017|[Link](https://github.com/Kyung-Min/PororoQA)|IJCAI|
 |**TVQA**|[**TVQA: Localized, Compositional Video Question Answering**](https://arxiv.org/abs/1809.01696)|2018|[Link](https://tvqa.cs.unc.edu/)|EMNLP|
+|**MAD-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
+|**Ego-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
 
 #### Video Instruction Tuning
 ##### Pretraining Dataset
