@@ -83,32 +83,6 @@ If you find our survey useful for your research, please cite the following paper
 }
 ```
 
-### 🗒️ Taxonomy
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
- -->
-### 🕹️ Video Analyzer × LLM
-
-#### LLM as Summarizer
-| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
-| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**Seeing the Unseen: Visual Metaphor Captioning for Videos**](https://arxiv.org/html/2406.04886v1) |   GIT-LLaVA   | 06/2024 |      [code]()       | arXiv |
-| [**Zero-shot long-form video understanding through screenplay**](https://arxiv.org/abs/2406.17309) |   MM-Screenplayer   | 06/2024 |      [project page]()       | CVPR |
-| [**MoReVQA exploring modular reasoning models for video question answering**](https://arxiv.org/abs/2404.06511) |   MoReVQA   | 04/2024 |      [project page]()       | CVPR |
-| [**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**](https://arxiv.org/abs/2403.18406) |   IG-VLM   | 03/2024 |      [code](https://github.com/imagegridworth/IG-VLM)       | arXiv |
-| [**Language repository for long video understanding**](https://arxiv.org/abs/2403.14622) |   LangRepo   | 03/2024 |      [code](https://github.com/kkahatapitiya/LangRepo)       | arXiv |
-| [**Understanding long videos in one multimodal language model pass**](https://arxiv.org/abs/2403.16998) |   MVU   | 03/2024 |      [code](https://github.com/kahnchana/mvu)       | arXiv |
-| [**Video ReCap recursive captioning of hour-long videos**](https://arxiv.org/abs/2402.13250) |   Video ReCap   | 02/2024 |      [code](https://sites.google.com/view/vidrecap)       | CVPR |
-| [**A Simple LLM Framework for Long-Range Video Question-Answering**](https://arxiv.org/abs/2312.17235) |   LLoVi   | 12/2023 |      [code](https://github.com/CeeZh/LLoVi)       | arXiv |
-| [**Grounding-prompter prompting LLM with multimodal information for temporal sentence grounding in long videos**](https://arxiv.org/abs/2312.17117) |   Grounding-prompter   | 12/2023 |      [code]()       | arXiv |
-| [**Learning object state changes in videos an open-world perspective**](https://arxiv.org/abs/2312.11782) |   VIDOSC   | 12/2023 |      [code]()       | CVPR |
-| [**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**](https://arxiv.org/abs/2307.16368) |   AntGPT   | 07/2023 |      [code](https://brown-palm.github.io/AntGPT)       | ICLR |
-| [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1)[![Star](https://img.shields.io/github/stars/txh-mercury/vast?style=social&label=Star)](https://github.com/txh-mercury/vast) |  VAST   | 05/2023 |    [code](https://github.com/txh-mercury/vast)     | NeurIPS |
-| [**VLog: Video as a Long Document**](https://github.com/showlab/VLog)[![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog) |        VLog         | 04/2023 |    [code](https://huggingface.co/spaces/TencentARC/VLog)     |   -   |
-| [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) | LaViLa  | 12/2022 | [code](https://github.com/facebookresearch/lavila) |  CVPR   |
-
-#### LLM as Manager
-
 ### 🤖 LLM-based Video Agents
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
