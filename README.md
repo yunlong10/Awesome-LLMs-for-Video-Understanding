@@ -108,6 +108,33 @@ If you find our survey useful for your research, please cite the following paper
 | [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) | LaViLa  | 12/2022 | [code](https://github.com/facebookresearch/lavila) |  CVPR   |
 
 #### LLM as Manager
+<!-- 模版：
+| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
+ -->
+| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**DrVideo: Document Retrieval Based Long Video Understanding**](https://arxiv.org/abs/2406.12846) |   DrVideo   | 06/2024 |      [code]()       | arXiv |
+| [**OmAgent a multi-modal agent framework for complex video understanding with task divide-and-conquer**](https://arxiv.org/abs/2406.16620) |   OmAgent   | 06/2024 |      [code]()       | arXiv |
+| [**Too Many Frames, not all Useful: Efficient Strategies for Long-Form Video QA**](https://arxiv.org/abs/2406.09396) |   LVNet   | 06/2024 |      [code](https://github.com/jongwoopark7978/LVNet)       | arXiv |
+| [**VideoTree adaptive tree-based video representation for LLM reasoning on long videos**](https://arxiv.org/abs/2405.19209) |   VideoTree   | 05/2024 |      [code](https://videotree2024.github.io/)       | arXiv |
+| [**Harnessing Large Language Models for Training-free Video Anomaly Detection**](https://arxiv.org/abs/2404.01014) |   LAVAD   | 04/2024 |      [code](https://lucazanella.github.io/lavad/)       | CVPR |
+| [**TraveLER a multi-LMM agent framework for video question-answering**](https://arxiv.org/abs/2404.01476) |   TraveLER   | 04/2024 |      [code]()       | arXiv |
+| [**GPTSee enhancing moment retrieval and highlight detection via description-based similarity features**](https://arxiv.org/abs/2403.01437) |   GPTSee   | 03/2024 |      [code]()       | arXiv |
+| [**Reframe anything LLM agent for open world video reframing**](https://arxiv.org/abs/2403.06070) |   RAVA   | 03/2024 |      [code]()       | arXiv |
+| [**SCHEMA state CHangEs MAtter for procedure planning in instructional videos**](https://arxiv.org/abs/2403.01599) |   SCHEMA   | 03/2024 |      [code]()       | ICLR |
+| [**TV-TREES multimodal entailment trees for neuro-symbolic video reasoning**](https://arxiv.org/abs/2402.19467) |   TV-TREES   | 02/2024 |      [code]()       | arXiv |
+| [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481) | VideoAgent  | 03/2024 |[project page](https://videoagent.github.io/)| arXiv |
+| [**VideoAgent long-form video understanding with large language model as agent**](https://arxiv.org/abs/2403.10517) |   VideoAgent   | 03/2024 |      [code]()       | arXiv |
+| [**VURF a general-purpose reasoning and self-refinement framework for video understanding**](https://arxiv.org/abs/2403.14743) |   VURF   | 03/2024 |      [code]()       | arXiv |
+| [**Why not use your textbook knowledge-enhanced procedure planning of instructional videos**](https://arxiv.org/abs/2403.02782) |   KEPP   | 03/2024 |      [code]()       | CVPR |
+| [**DoraemonGPT toward understanding dynamic scenes with large language models**](https://arxiv.org/abs/2401.08392) |   DoraemonGPT   | 01/2024 |      [code](https://github.com/z-x-yang/DoraemonGPT)       | arXiv |
+| [**LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos**](https://arxiv.org/abs/2312.05269) |   LifelongMemory   | 12/2023 |      [code](https://github.com/Agentic-Learning-AI-Lab/lifelong-memory)       | arXiv |
+| [**Zero-Shot Video Question Answering with Procedural Programs**](https://arxiv.org/abs/2312.00937) |   ProViQ   | 12/2023 |      [code](https://rccchoudhury.github.io/proviq2023)       | arXiv |
+| [**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**](https://arxiv.org/abs/2306.08640) |   AssistGPT   | 06/2023 |      [code](https://showlab.github.io/assistgpt/)       | arXiv |
+| [**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**](https://arxiv.org/abs/2304.14407) |      ChatVideo      | 04/2023 |    [project page](https://www.wangjunke.info/ChatVideo/)     | arXiv |
+| [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227)[![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
+| [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) |   ViperGPT   | 03/2023 |      [code](https://viper.cs.columbia.edu/)       | arXiv |
+| [**Hawk: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/abs/2405.16886) |   Hawk   | 05/2024 |      [code](https://github.com/jqtangust/hawk)       | arXiv |
 
 ### 🤖 LLM-based Video Agents
 
