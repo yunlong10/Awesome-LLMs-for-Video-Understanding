@@ -108,9 +108,6 @@ If you find our survey useful for your research, please cite the following paper
 | [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) | LaViLa  | 12/2022 | [code](https://github.com/facebookresearch/lavila) |  CVPR   |
 
 #### LLM as Manager
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
- -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**DrVideo: Document Retrieval Based Long Video Understanding**](https://arxiv.org/abs/2406.12846) |   DrVideo   | 06/2024 |      [code]()       | arXiv |
@@ -135,6 +132,82 @@ If you find our survey useful for your research, please cite the following paper
 | [**Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**](https://arxiv.org/abs/2304.04227)[![Star](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner.svg?style=social&label=Star)](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | Video ChatCaptioner | 04/2023 | [code](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner) | arXiv |
 | [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) |   ViperGPT   | 03/2023 |      [code](https://viper.cs.columbia.edu/)       | arXiv |
 | [**Hawk: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/abs/2405.16886) |   Hawk   | 05/2024 |      [code](https://github.com/jqtangust/hawk)       | arXiv |
+
+
+#### LLM as Text Decoder
+
+<!-- 模版：
+| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
+ -->
+| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**Artemis towards referential understanding in complex videos**](https://arxiv.org/abs/2406.00258) |   Artemis   | 06/2024 |      [code](https://github.com/qiujihao19/Artemis)       | arXiv |
+| [**EmoLLM multimodal emotional understanding meets large language models**](https://arxiv.org/abs/2406.16442) |   EmoLLM   | 06/2024 |      [code](https://github.com/yan9qu/EmoLLM)       | arXiv |
+| [**Fewer tokens and fewer videos extending video understanding abilities in large vision-language models**](https://arxiv.org/abs/2406.08024) |   FTFV-LLM   | 06/2024 |      -      | arXiv |
+| [**Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams**](https://arxiv.org/abs/2406.08085) |   Flash-VStream   | 06/2024 |      [code](https://invinciblewyq.github.io/vstream-page/)       | arXiv |
+| [**LLAVIDAL benchmarking large language vision models for daily activities of living**](https://arxiv.org/abs/2406.09390) |   LLAVIDAL   | 06/2024 |      [code](https://adl-x.github.io/)       | arXiv |
+| [**Long context transfer from language to vision**](https://arxiv.org/abs/2406.16852) |   LongVA   | 06/2024 |      [code](https://github.com/EvolvingLMMs-Lab/LongVA)       | arXiv |
+| [**ShareGPT4Video improving video understanding and generation with better captions**](https://arxiv.org/abs/2406.04325) |   ShareGPT4Video   | 06/2024 |      [code](https://sharegpt4video.github.io/)       | arXiv |
+| [**Towards event-oriented long video understanding**](https://arxiv.org/abs/2406.14129) |   VIM   | 06/2024 |      [code](https://github.com/RUCAIBox/Event-Bench)       | arXiv |
+| [**Video-SALMONN speech-enhanced audio-visual large language models**](https://arxiv.org/abs/2406.15704) |   Video-SALMONN   | 06/2024 |      [code](https://github.com/bytedance/SALMONN/)       | ICML |
+| [**VideoGPT+ integrating image and video encoders for enhanced video understanding**](https://arxiv.org/abs/2406.09418) |   VideoGPT+   | 06/2024 |      [code](https://github.com/mbzuai-oryx/VideoGPT-plus)       | arXiv |
+| [**VideoLLaMA 2 advancing spatial-temporal modeling and audio understanding in video-LLMs**](https://arxiv.org/abs/2406.07476) |   VideoLLaMA 2   | 06/2024 |      [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)       | arXiv |
+| [**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**](https://arxiv.org/abs/2405.20340) |   MotionLLM   | 05/2024 |      [code](代码链接)       | arXiv |
+| [**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**](https://arxiv.org/abs/2311.17005) |   VideoChat2   | 11/2023 |      [code](https://github.com/OpenGVLab/Ask-Anything)       | CVPR |
+
+<!-- | [**Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization**](https://arxiv.org/abs/2405.20648) |   Shotluck Holmes   | 05/2024 |      [code](代码链接)       | arXiv |
+
+| [**Streaming long video understanding with large language models**](https://www.arxiv.org/abs/2405.16009) |   VideoStreaming   | 05/2024 |      [code](代码链接)       | arXiv |
+
+| [**Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline**](https://arxiv.org/html/2405.14040v1) |   VideoNarrator   | 05/2024 |      [code](代码链接)       | 来源 |
+
+| [**TOPA extend large language models for video understanding via text-only pre-alignment**](https://arxiv.org/abs/2405.13911) |   TOPA   | 05/2024 |      [code](代码链接)       | 来源 |
+
+| [**AutoAD III: The Prequel – Back to the Pixels**](https://arxiv.org/abs/2404.14412) |   AutoAD III   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward**](https://arxiv.org/abs/2404.01258) |   LLaVA-Hound-DPO   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**From image to video, what do we need in multimodal LLMs**](https://arxiv.org/abs/2404.11865) |   RED-VILLM   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**Koala key frame-conditioned long video-LLM**](https://arxiv.org/abs/2404.04346) |   Koala   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**LongVLM efficient long video understanding via large language models**](https://arxiv.org/abs/2404.03384) |   LongVLM   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**MA-LMM memory-augmented large multimodal model for long-term video understanding**](https://arxiv.org/abs/2404.05726) |   MA-LMM   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**MiniGPT4-video advancing multimodal LLMs for video understanding with interleaved visual-textual tokens**](https://arxiv.org/abs/2404.03413) |   MiniGPT4-Video   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**Pegasus-v1 technical report**](https://arxiv.org/abs/2404.14687) |   Pegasus-v1   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning**](https://arxiv.org/abs/2404.16994) |   PLLaVA   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**ST-LLM: Large Language Models Are Effective Temporal Learners**](https://arxiv.org/abs/2404.00308) |   ST-LLM   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**Tarsier recipes for training and evaluating large video description models**](https://arxiv.org/abs/2407.00634) |   Tarsier   | 07/2024 |      [code](代码链接)       | 来源 |
+
+| [**X-VARS introducing explainability in football refereeing with multi-modal large language model**](https://arxiv.org/abs/2404.06332) |   X-VARS   | 04/2024 |      [code](代码链接)       | 来源 |
+
+| [**CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios**](https://arxiv.org/abs/2403.04640) |   CAT   | 03/2024 |      [code](代码链接)       | 来源 |
+
+| [**InternVideo2 scaling video foundation models for multimodal video understanding**](https://arxiv.org/abs/2403.15377) |   InternVideo2   | 03/2024 |      [code](代码链接)       | 来源 |
+
+| [**MovieLLM enhancing long video understanding with AI-generated movies**](https://arxiv.org/abs/2403.01422) |   MovieLLM   | 03/2024 |      [code](代码链接)       | 来源 |
+
+| [**LLMs meet long video advancing long video comprehension with an interactive visual adapter in LLMs**](https://arxiv.org/abs/2402.13546) |   IVAwithLLM   | 02/2024 |      [code](代码链接)       | 来源 |
+
+| [**LSTP language-guided spatial-temporal prompt learning for long-form video-text understanding**](https://arxiv.org/abs/2402.16050) |   LSTP   | 02/2024 |      [code](代码链接)       | 来源 |
+
+| [**LVCHAT facilitating long video comprehension**](https://arxiv.org/abs/2402.12079) |   LVCHAT   | 02/2024 |      [code](代码链接)       | 来源 |
+
+| [**OSCaR: Object State Captioning and State Change Representation**](https://arxiv.org/abs/2402.17128) |   OSCaR   | 02/2024 |      [code](代码链接)       | 来源 |
+
+| [**Slot-VLM SlowFast slots for video-language modeling**](https://arxiv.org/abs/2402.13088) |   Slot-VLM   | 02/2024 |      [code](代码链接)       | 来源 |
+
+| [**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**](https://arxiv.org/abs/2401.00849) |   COSMO   | 01/2024 |      [code](代码链接)       | 来源 |
+
+| [**Weakly supervised gaussian contrastive grounding with large multimodal models for video question answering**](https://arxiv.org/abs/2401.10711) |   GCG   | 01/2024 |      [code](代码链接)       | 来源 |
+ -->
+
 
 ### 🤖 LLM-based Video Agents
 
