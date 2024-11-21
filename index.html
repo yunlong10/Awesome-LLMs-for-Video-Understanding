@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPT Showcase</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .input-section, .output-section {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        textarea, input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #555;
+        }
+        .output-box {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>GPT Interactive Showcase</h1>
+</header>
+
+<div class="container">
+    <div class="input-section">
+        <label for="user-input">Enter your prompt:</label>
+        <textarea id="user-input" rows="4" placeholder="Type your question or request here..."></textarea>
+        <button onclick="generateResponse()">Generate Response</button>
+    </div>
+
+    <div class="output-section">
+        <h3>GPT Response:</h3>
+        <div id="output" class="output-box">
+            <!-- Response will be displayed here -->
+        </div>
+    </div>
+</div>
+
+<script>
+    function generateResponse() {
+        const userInput = document.getElementById('user-input').value;
+
+        if (userInput.trim() === "") {
+            alert("Please enter a prompt.");
+            return;
+        }
+
+        // Simulate GPT response
+        const simulatedResponse = "This is a simulated response to: " + userInput;
+
+        // Display the
