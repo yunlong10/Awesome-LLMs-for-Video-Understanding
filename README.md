@@ -180,7 +180,26 @@ If you find our survey useful for your research, please cite the following paper
 | [**Slot-VLM SlowFast slots for video-language modeling**](https://arxiv.org/abs/2402.13088) |   Slot-VLM   | 02/2024 |      [code]()       | 来源 |
 | [**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**](https://arxiv.org/abs/2401.00849) |   COSMO   | 01/2024 |      [code](http://fingerrec.github.io/cosmo)       | arXiv |
 | [**Weakly supervised gaussian contrastive grounding with large multimodal models for video question answering**](https://arxiv.org/abs/2401.10711) |   GCG   | 01/2024 |      [code](https://github.com/WHB139426/GCG)       | ACMMM |
-
+| [**Audio-Visual LLM for Video Understanding**](https://arxiv.org/abs/2312.06720) |   AV-LLM   | 12/2023 |      [code]()       | arXiv |
+| [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/abs/2312.13286) |   Emu2   | 12/2023 |      [project page](https://baaivision.github.io/emu2)       | CVPR |
+| [**MMICT: Boosting Multi-Modal Fine-Tuning with In-Context Examples**](https://arxiv.org/abs/2312.06363) |   MMICT   | 12/2023 |      [code](https://github.com/KDEGroup/MMICT)       | TOMM |
+| [**VaQuitA : Enhancing Alignment in LLM-Assisted Video Understanding**](https://arxiv.org/abs/2312.02310) |   VaQuitA   | 12/2023 |      [code]()       | arXiv |
+| [**VILA: On Pre-training for Visual Language Models**](https://arxiv.org/abs/2312.07533) |   VILA   | 12/2023 |      [code](https://github.com/NVlabs/VILA)       | CVPR |
+| [**Vista-LLaMA reliable video narrator via equal distance to visual tokens**](https://arxiv.org/abs/2312.08870) |   Vista-LLaMA   | 12/2023 |      [project page](https://jinxxian.github.io/Vista-LLaMA)       | arXiv |
+| [**Chat-UniVi unified visual representation empowers large language models with image and video understanding**](https://arxiv.org/abs/2311.08046) |   Chat-UniVi   | 11/2023 |      [code](https://github.com/PKU-YuanGroup/Chat-UniVi)       | CVPR |
+| [**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**](https://arxiv.org/abs/2311.17043) |   LLaMA-VID   | 11/2023 |      [code](https://github.com/dvlab-research/LLaMA-VID)       | arXiv |
+| [**Video-LLaVA learning united visual representation by alignment before projection**](https://arxiv.org/abs/2311.10122) |   Video-LLaVA   | 11/2023 |      [code](https://github.com/PKU-YuanGroup/Video-LLaVA)       | arXiv |
+| [**Large Language Models are Temporal and Causal Reasoners for Video Question Answering**](https://arxiv.org/abs/2310.15747) |   LLaMA-VQA   | 10/2023 |      [code](https://github.com/mlvlab/Flipped-VQA)       | EMNLP |
+| [**MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**](https://arxiv.org/abs/2307.16449) |   MovieChat   | 07/2023 |      [code](https://rese1f.github.io/MovieChat/)       | CVPR |
+| [**LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning**](https://arxiv.org/abs/2306.10354) |   LLMVA-GEBC   | 06/2023 |      [code](https://github.com/zjr2000/LLMVA-GEBC)       | CVPR |
+| [**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**](https://arxiv.org/abs/2306.09093) |   Macaw-LLM   | 06/2023 |      [project page](https://github.com/lyuchenyang/Macaw-LLM)       | arXiv |
+| [**Valley: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/abs/2306.07207) |   VALLEY   | 06/2023 |      [code]()       | arXiv |
+| [**Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models**](https://arxiv.org/abs/2306.05424) |   Video-ChatGPT   | 06/2023 |      [code](https://github.com/mbzuai-oryx/Video-ChatGPT)       | ACL |
+| [**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858) |   Video-LLaMA   | 06/2023 |      [code](https://github.com/DAMO-NLP-SG/Video-LLaMA)       | EMNLP |
+| [**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**](https://arxiv.org/abs/2306.04362) |   mPLUG-video   | 06/2023 |      [code](https://github.com/X-PLUG/Youku-mPLUG)       | arXiv |
+| [**ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst**](https://arxiv.org/abs/2305.16103) |   ChatBridge   | 05/2023 |      [code](https://iva-chatbridge.github.io)       | arXiv |
+| [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726) |   Otter   | 05/2023 |      [code](https://github.com/Luodian/Otter)       | arXiv |
+| [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) |   VideoLLM   | 05/2023 |      [code](https://github.com/cg1177/VideoLLM)       | arXiv |
 
 ### 🤖 LLM-based Video Agents
 
