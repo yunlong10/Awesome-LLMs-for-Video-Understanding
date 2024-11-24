@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
- **[Paper](https://arxiv.org/pdf/2312.17432)** | **[Project Page](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)**
+ **[Paper](https://arxiv.org/pdf/2312.17432)** | **[Project Page](https://yunlong10.github.io/Awesome-LLMs-for-Video-Understanding/)**
 
 </h5>
 
@@ -141,6 +141,7 @@ If you find our survey useful for your research, please cite the following paper
  -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**](https://arxiv.org/abs/2410.03051) |   AuroraCap   | 10/2024 |      [project page](https://rese1f.github.io/aurora-web/)       | arXiv |
 | [**Artemis towards referential understanding in complex videos**](https://arxiv.org/abs/2406.00258) |   Artemis   | 06/2024 |      [code](https://github.com/qiujihao19/Artemis)       | arXiv |
 | [**EmoLLM multimodal emotional understanding meets large language models**](https://arxiv.org/abs/2406.16442) |   EmoLLM   | 06/2024 |      [code](https://github.com/yan9qu/EmoLLM)       | arXiv |
 | [**Fewer tokens and fewer videos extending video understanding abilities in large vision-language models**](https://arxiv.org/abs/2406.08024) |   FTFV-LLM   | 06/2024 |      -      | arXiv |
@@ -158,6 +159,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Streaming long video understanding with large language models**](https://www.arxiv.org/abs/2405.16009) |   VideoStreaming   | 05/2024 |      -       | arXiv |
 | [**Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline**](https://arxiv.org/html/2405.14040v1) |   VideoNarrator   | 05/2024 |      -       | arXiv |
 | [**TOPA extend large language models for video understanding via text-only pre-alignment**](https://arxiv.org/abs/2405.13911) |   TOPA   | 05/2024 |      [code](https://github.com/dhg-wei/TOPA)       | NeurIPS |
+| [**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering**](https://arxiv.org/abs/2404.17176) |   MovieChat+   | 04/2024 |      [code](https://github.com/rese1f/MovieChat)       | arXiv |
 | [**AutoAD III: The Prequel – Back to the Pixels**](https://arxiv.org/abs/2404.14412) |   AutoAD III   | 04/2024 |      [project page](https://www.robots.ox.ac.uk/~vgg/research/autoad/)       | CVPR |
 | [**Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward**](https://arxiv.org/abs/2404.01258) |   LLaVA-Hound-DPO   | 04/2024 |      [code](https://github.com/RifleZhang/LLaVA-Hound-DPO)       | arXiv |
 | [**From image to video, what do we need in multimodal LLMs**](https://arxiv.org/abs/2404.11865) |   RED-VILLM   | 04/2024 |      -       | arXiv |
