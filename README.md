@@ -136,9 +136,6 @@ If you find our survey useful for your research, please cite the following paper
 
 #### LLM as Text Decoder
 
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
- -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**](https://arxiv.org/abs/2410.03051) |   AuroraCap   | 10/2024 |      [project page](https://rese1f.github.io/aurora-web/)       | arXiv |
@@ -202,6 +199,27 @@ If you find our survey useful for your research, please cite the following paper
 | [**ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst**](https://arxiv.org/abs/2305.16103) |   ChatBridge   | 05/2023 |      [code](https://iva-chatbridge.github.io)       | arXiv |
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726) |   Otter   | 05/2023 |      [code](https://github.com/Luodian/Otter)       | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) |   VideoLLM   | 05/2023 |      [code](https://github.com/cg1177/VideoLLM)       | arXiv |
+
+#### LLM as Regressor
+
+<!-- 模版：
+| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
+ -->
+| Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**](https://arxiv.org/abs/2406.12235) |   Holmes-VAD   | 06/2024 |      [code](https://holmesvad.github.io/)       | arXiv |
+| [**VideoLLM-online online video large language model for streaming video**](https://arxiv.org/abs/2406.11816) |   VideoLLM-online   | 06/2024 |      [code](https://showlab.github.io/videollm-online)       | CVPR |
+| [**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**](https://arxiv.org/abs/2404.09933) |   VLM4HOI   | 04/2024 |      [project page](https://sid2697.github.io/hoi-ref/)       | arXiv |
+| [**V2Xum-LLM cross-modal video summarization with temporal prompt instruction tuning**](https://arxiv.org/abs/2404.12353) |   V2Xum-LLaMA   | 04/2024 |      [code](https://hanghuacs.github.io/v2xum/)       | arXiv |
+| [**AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary Alignment for Temporal Referential Dialogue**](https://arxiv.org/abs/2403.16276) |   AVicuna   | 03/2024 |      [code]()       | arXiv |
+| [**Elysium exploring object-level perception in videos via MLLM**](https://arxiv.org/abs/2403.16558) |   Elysium   | 03/2024 |      [code](https://github.com/Hon-Wong/Elysium)       | arXiv |
+| [**HawkEye training video-text LLMs for grounding text in videos**](https://arxiv.org/abs/2403.10228) |   HawkEye   | 03/2024 |      [code](https://github.com/yellow-binary-tree/HawkEye)       | arXiv |
+| [**LITA language instructed temporal-localization assistant**](https://arxiv.org/abs/2403.19046) |   LITA   | 03/2024 |      [code](https://github.com/NVlabs/LITA)       | arXiv |
+| [**OmniViD: A Generative Framework for Universal Video Understanding**](https://arxiv.org/abs/2403.17935) |   OmniViD   | 03/2024 |      [code](https://github.com/wangjk666/OmniVid)       | CVPR |
+| [**GroundingGPT: Language Enhanced Multi-modal Grounding Model**](https://arxiv.org/abs/2401.06071) |   GroundingGPT   | 01/2024 |      [code](https: //github.com/lzw-lzw/GroundingGPT)       | arXiv |
+| [**TimeChat a time-sensitive multimodal large language model for long video understanding**](https://arxiv.org/abs/2312.02051) |   TimeChat   | 12/2023 |      [code](https://github.com/RenShuhuai-Andy/TimeChat)       | CVPR |
+| [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988) |   SeViLA   | 11/2023 |      [code](https://github.com/Yui010206/SeViLA)       | NeurIPS |
+| [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445) |   VTimeLLM   | 11/2023 |      [code](https://github.com/huangb23/VTimeLLM)       | arXiv |
 
 ### 🤖 LLM-based Video Agents
 
