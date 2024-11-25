@@ -83,10 +83,8 @@ If you find our survey useful for your research, please cite the following paper
 }
 ```
 
-### 🗒️ Taxonomy
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
- -->
+### 🗒️ Taxonomy 1
+
 ### 🕹️ Video Analyzer × LLM
 
 #### LLM as Summarizer
@@ -133,6 +131,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) |   ViperGPT   | 03/2023 |      [code](https://viper.cs.columbia.edu/)       | arXiv |
 | [**Hawk: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/abs/2405.16886) |   Hawk   | 05/2024 |      [code](https://github.com/jqtangust/hawk)       | arXiv |
 
+### 👾 Video Embedder × LLM
 
 #### LLM as Text Decoder
 
@@ -176,7 +175,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**LSTP language-guided spatial-temporal prompt learning for long-form video-text understanding**](https://arxiv.org/abs/2402.16050) |   LSTP   | 02/2024 |      [code](https://github.com/bigai-nlco/VideoTGB)       | EMNLP |
 | [**LVCHAT facilitating long video comprehension**](https://arxiv.org/abs/2402.12079) |   LVCHAT   | 02/2024 |      [code](https://github.com/wangyu-ustc/LVChat)       | arXiv |
 | [**OSCaR: Object State Captioning and State Change Representation**](https://arxiv.org/abs/2402.17128) |   OSCaR   | 02/2024 |      [code](https://github.com/nguyennm1024/OSCaR)       | NAACL |
-| [**Slot-VLM SlowFast slots for video-language modeling**](https://arxiv.org/abs/2402.13088) |   Slot-VLM   | 02/2024 |      [code]()       | 来源 |
+| [**Slot-VLM SlowFast slots for video-language modeling**](https://arxiv.org/abs/2402.13088) |   Slot-VLM   | 02/2024 |      [code]()       | arXiv |
 | [**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**](https://arxiv.org/abs/2401.00849) |   COSMO   | 01/2024 |      [code](http://fingerrec.github.io/cosmo)       | arXiv |
 | [**Weakly supervised gaussian contrastive grounding with large multimodal models for video question answering**](https://arxiv.org/abs/2401.10711) |   GCG   | 01/2024 |      [code](https://github.com/WHB139426/GCG)       | ACMMM |
 | [**Audio-Visual LLM for Video Understanding**](https://arxiv.org/abs/2312.06720) |   AV-LLM   | 12/2023 |      [code]()       | arXiv |
@@ -220,6 +219,36 @@ If you find our survey useful for your research, please cite the following paper
 | [**TimeChat a time-sensitive multimodal large language model for long video understanding**](https://arxiv.org/abs/2312.02051) |   TimeChat   | 12/2023 |      [code](https://github.com/RenShuhuai-Andy/TimeChat)       | CVPR |
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988) |   SeViLA   | 11/2023 |      [code](https://github.com/Yui010206/SeViLA)       | NeurIPS |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445) |   VTimeLLM   | 11/2023 |      [code](https://github.com/huangb23/VTimeLLM)       | arXiv |
+
+#### LLM as Hidden Layer
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**VTG-LLM integrating timestamp knowledge into video LLMs for enhanced video temporal grounding**](https://arxiv.org/abs/2405.13382) |   VTG-LLM   | 05/2024 |      [code](https://github.com/gyxxyg/VTG-LLM)       | arXiv |
+| [**VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**](https://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf) |   VITRON   | 04/2024 |      [project page](https://vitron-llm.github.io/)       | NeurIPS |
+| [**VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT**](https://arxiv.org/abs/2403.02076) |   VTG-GPT   | 03/2024 |      [code](https://github.com/YoucanBaby/VTG-GPT)       | arXiv |
+| [**Momentor advancing video large language model with fine-grained temporal reasoning**](https://arxiv.org/abs/2402.11435) |   Momentor   | 02/2024 |      [code](https://github.com/DCDmllm/Momentor)       | ICML |
+| [**Detours for navigating instructional videos**](https://arxiv.org/abs/2401.01823) |   VidDetours   | 01/2024 |      [code]()       | CVPR |
+| [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700) |   OneLLM   | 12/2023 |      [code](https://github.com/csuhan/OneLLM)       | arXiv |
+| [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video   | 11/2023 |      [code](https://gpt4video.github.io)       | ACMMM |
+
+### 🦾 (Analyzer + Embedder) × LLM
+
+#### LLM as Manager
+<!-- 模版：
+| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
+ -->
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**MM-VID: Advancing Video Understanding with GPT-4V(ision)**](https://arxiv.org/abs/2310.19773) |       MM-VID        | 10/2023 |                              -                               | arXiv |
+<!-- #### LLM as Summarizer
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**Shot2Story20K a new benchmark for comprehensive understanding of multi-shot videos**](https://arxiv.org/abs/2312.10300) |   SUM-shot   | 12/2023 |      [code](代码链接)       | 来源 |
+#### LLM as Regressor
+#### LLM as Text Decoder
+#### LLM as Hidden Layer -->
+
+### 🗒️ Taxonomy 2
 
 ### 🤖 LLM-based Video Agents
 
