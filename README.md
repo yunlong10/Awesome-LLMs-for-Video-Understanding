@@ -31,34 +31,9 @@
 
 Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
 
-
 <font size=5><center><b> Table of Contents </b> </center></font>
 
-- [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
-    - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
-  - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
-  - [😎 Vid-LLMs: Models](#-vid-llms-models)
-    - [📑 Citation](#-citation)
-    - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
-    - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
-    - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
-      - [Fine-tuning with Connective Adapters](#fine-tuning-with-connective-adapters)
-      - [Fine-tuning with Insertive Adapters](#fine-tuning-with-insertive-adapters)
-      - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
-    - [🦾 Hybrid Methods](#-hybrid-methods)
-    - [Training-free Methods](#-training-free-methods)
-  - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
-      - [Recognition and Anticipation](#recognition-and-anticipation)
-      - [Captioning and Description](#captioning-and-description)
-      - [Grounding and Retrieval](#grounding-and-retrieval)
-      - [Question Answering](#question-answering)
-      - [Video Instruction Tuning](#video-instruction-tuning)
-        - [Pretraining Dataset](#pretraining-dataset)
-        - [Fine-tuning Dataset](#fine-tuning-dataset)
-      - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
-  - [Contributing](#contributing)
-    - [🌟 Star History](#-star-history)
-    - [♥️ Contributors](#️-contributors)
+[toc]
 
 
 ## Why we need Vid-LLMs?
@@ -85,9 +60,9 @@ If you find our survey useful for your research, please cite the following paper
 
 ### 🗒️ Taxonomy 1
 
-### 🕹️ Video Analyzer × LLM
+#### 🕹️ Video Analyzer × LLM
 
-#### LLM as Summarizer
+##### LLM as Summarizer
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**Seeing the Unseen: Visual Metaphor Captioning for Videos**](https://arxiv.org/html/2406.04886v1) |   GIT-LLaVA   | 06/2024 |      [code]()       | arXiv |
@@ -105,7 +80,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VLog: Video as a Long Document**](https://github.com/showlab/VLog)[![Star](https://img.shields.io/github/stars/showlab/VLog.svg?style=social&label=Star)](https://github.com/showlab/VLog) |        VLog         | 04/2023 |    [code](https://huggingface.co/spaces/TencentARC/VLog)     |   -   |
 | [**Learning Video Representations from Large Language Models**](https://arxiv.org/abs/2212.04501)[![Star](https://img.shields.io/github/stars/facebookresearch/lavila?style=social&label=Star)](https://github.com/facebookresearch/lavila) | LaViLa  | 12/2022 | [code](https://github.com/facebookresearch/lavila) |  CVPR   |
 
-#### LLM as Manager
+##### LLM as Manager
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**DrVideo: Document Retrieval Based Long Video Understanding**](https://arxiv.org/abs/2406.12846) |   DrVideo   | 06/2024 |      [code]()       | arXiv |
@@ -131,9 +106,9 @@ If you find our survey useful for your research, please cite the following paper
 | [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) |   ViperGPT   | 03/2023 |      [code](https://viper.cs.columbia.edu/)       | arXiv |
 | [**Hawk: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/abs/2405.16886) |   Hawk   | 05/2024 |      [code](https://github.com/jqtangust/hawk)       | arXiv |
 
-### 👾 Video Embedder × LLM
+#### 👾 Video Embedder × LLM
 
-#### LLM as Text Decoder
+##### LLM as Text Decoder
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
@@ -199,10 +174,10 @@ If you find our survey useful for your research, please cite the following paper
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726) |   Otter   | 05/2023 |      [code](https://github.com/Luodian/Otter)       | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) |   VideoLLM   | 05/2023 |      [code](https://github.com/cg1177/VideoLLM)       | arXiv |
 
-#### LLM as Regressor
+##### LLM as Regressor
 
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
+<!-- 
+| [**title**](link) |   model   | date |      [code](link)       | venue |
  -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
@@ -220,7 +195,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988) |   SeViLA   | 11/2023 |      [code](https://github.com/Yui010206/SeViLA)       | NeurIPS |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445) |   VTimeLLM   | 11/2023 |      [code](https://github.com/huangb23/VTimeLLM)       | arXiv |
 
-#### LLM as Hidden Layer
+##### LLM as Hidden Layer
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**VTG-LLM integrating timestamp knowledge into video LLMs for enhanced video temporal grounding**](https://arxiv.org/abs/2405.13382) |   VTG-LLM   | 05/2024 |      [code](https://github.com/gyxxyg/VTG-LLM)       | arXiv |
@@ -231,26 +206,37 @@ If you find our survey useful for your research, please cite the following paper
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700) |   OneLLM   | 12/2023 |      [code](https://github.com/csuhan/OneLLM)       | arXiv |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video   | 11/2023 |      [code](https://gpt4video.github.io)       | ACMMM |
 
-### 🦾 (Analyzer + Embedder) × LLM
+#### 🦾 (Analyzer + Embedder) × LLM
 
-#### LLM as Manager
-<!-- 模版：
-| [**文章标题**](文章链接) |   模型名称   | 时间 |      [code](代码链接)       | 来源 |
- -->
+##### LLM as Manager
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
 | [**MM-VID: Advancing Video Understanding with GPT-4V(ision)**](https://arxiv.org/abs/2310.19773) |       MM-VID        | 10/2023 |                              -                               | arXiv |
-<!-- #### LLM as Summarizer
+##### LLM as Summarizer
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
-| [**Shot2Story20K a new benchmark for comprehensive understanding of multi-shot videos**](https://arxiv.org/abs/2312.10300) |   SUM-shot   | 12/2023 |      [code](代码链接)       | 来源 |
-#### LLM as Regressor
-#### LLM as Text Decoder
-#### LLM as Hidden Layer -->
-
+| [**Shot2Story20K a new benchmark for comprehensive understanding of multi-shot videos**](https://arxiv.org/abs/2312.10300) |   SUM-shot   | 12/2023 |      [code](https://mingfei.info/shot2story/)       | arXiv |
+##### LLM as Regressor
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**Vript: A Video Is Worth Thousands of Words**](https://arxiv.org/abs/2406.06040) |   Vriptor   | 06/2024 |      [code](https://github.com/mutonix/Vript)       | NeurIPS |
+| [**Merlin:Empowering Multimodal LLMs with Foresight Minds**](https://arxiv.org/abs/2312.00589) |   Merlin   | 12/2023 |      [project page](https://ahnsun.github.io/merlin)       | ECCV |
+| [**VideoChat: Chat-Centric Video Understanding**](https://arxiv.org/abs/2305.06355) |   VideoChat   | 05/2023 |      [code](https://github.com/OpenGVLab/Ask-Anything)       | arXiv |
+| [**Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**](https://arxiv.org/abs/2302.14115) |   Vid2Seq   | 02/2023 |      [code](https://antoyang.github.io/vid2seq.html)       | CVPR |
+##### LLM as Text Decoder
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**Contextual AD Narration with Interleaved Multimodal Sequence**](https://arxiv.org/abs/2403.12922) |   Uni-AD   | 03/2024 |      [code](https://github.com/MCG-NJU/Uni-AD)       | arXiv |
+| [**MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning**](https://arxiv.org/abs/2311.17435) |   MM-narrator   | 11/2023 |      [project page](https://mm-narrator.github.io/)       | arXiv |
+| [**Vamos: Versatile Action Models for Video Understanding**](https://arxiv.org/abs/2311.13627) |   Vamos   | 11/2023 |      [project page](https://brown-palm.github.io/Vamos/)       | ECCV |
+| [**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**](https://arxiv.org/abs/2310.06838) |   Auto-AD II   | 10/2023 |      [project page](https://www.robots.ox.ac.uk/vgg/research/autoad/)       | ICCV |
+##### LLM as Hidden Layer
+ | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
+| :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**PG-Video-LLaVA: Pixel Grounding Large Video-Language Models**](https://arxiv.org/abs/2311.13435v2)[![Star](https://img.shields.io/github/stars/mbzuai-oryx/video-llava.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/video-llava) |   PG-Video-LLaVA    | 11/2023 |      [code](https://github.com/mbzuai-oryx/video-llava)      | arXiv |
 ### 🗒️ Taxonomy 2
 
-### 🤖 LLM-based Video Agents
+#### 🤖 LLM-based Video Agents
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
@@ -263,9 +249,10 @@ If you find our survey useful for your research, please cite the following paper
 | [**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**](https://arxiv.org/abs/2312.17117) | Grounding-Prompter  | 12/2023 |                              -                               | arXiv |
 | [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | NaVid  | 02/2024 |     [project page](https://pku-epic.github.io/NaVid/)                         -      | RSS |
 | [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481) | VideoAgent  | 03/2024 |                              [project page](https://videoagent.github.io/)                               | arXiv |
+| [**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**](https://arxiv.org/pdf/2409.20365) |   VideoINSTA   | 09/2024 |      [code](https://github.com/mayhugotong/VideoINSTA)       | EMNLP |
 
 
-### 👾 Vid-LLM Pretraining
+#### 👾 Vid-LLM Pretraining
 
 | Title                                                        |  Model  |  Date   |                        Code                        |  Venue  |
 | :----------------------------------------------------------- | :-----: | :-----: | :------------------------------------------------: | :-----: |
@@ -274,9 +261,9 @@ If you find our survey useful for your research, please cite the following paper
 | [**VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset**](https://arxiv.org/abs/2305.18500v1)[![Star](https://img.shields.io/github/stars/txh-mercury/vast?style=social&label=Star)](https://github.com/txh-mercury/vast) |  VAST   | 05/2023 |    [code](https://github.com/txh-mercury/vast)     | NeurIPS |
 | [**Merlin:Empowering Multimodal LLMs with Foresight Minds**](https://arxiv.org/abs/2312.00589v1) | Merlin  | 12/2023 |                         -                          |  arXiv  |
 
-### 👀 Vid-LLM Instruction Tuning
+#### 👀 Vid-LLM Instruction Tuning
 
-#### Fine-tuning with Connective Adapters
+##### Fine-tuning with Connective Adapters
 
 | Title                                                        |     Model     |  Date   |                         Code                         | Venue |
 | :----------------------------------------------------------- | :-----------: | :-----: | :--------------------------------------------------: | :---: |
@@ -300,21 +287,21 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)[![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |     VideoLLaMA2     | 06/2024 |  [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)   | arXiv |
 
 
-#### Fine-tuning with Insertive Adapters
+##### Fine-tuning with Insertive Adapters
 
 | Title                                                        |  Model   |  Date   |                    Code                    | Venue |
 | :----------------------------------------------------------- | :------: | :-----: | :----------------------------------------: | :---: |
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726v1)[![Star](https://img.shields.io/github/stars/luodian/otter.svg?style=social&label=Star)](https://github.com/luodian/otter) |  Otter   | 06/2023 |  [code](https://github.com/luodian/otter)  | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292)[![Star](https://img.shields.io/github/stars/cg1177/videollm.svg?style=social&label=Star)](https://github.com/cg1177/videollm) | VideoLLM | 05/2023 | [code](https://github.com/cg1177/videollm) | arXiv |
 
-#### Fine-tuning with Hybrid Adapters
+##### Fine-tuning with Hybrid Adapters
 
 | Title                                                        |   Model   |  Date   |                     Code                     | Venue |
 | :----------------------------------------------------------- | :-------: | :-----: | :------------------------------------------: | :---: |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445v1)[![Star](https://img.shields.io/github/stars/huangb23/vtimellm.svg?style=social&label=Star)](https://github.com/huangb23/vtimellm) | VTimeLLM  | 11/2023 | [code](https://github.com/huangb23/vtimellm) | arXiv |
 | [**GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation**](https://arxiv.org/abs/2311.16511v1) | GPT4Video | 11/2023 |                      -                       | arXiv |
 
-### 🦾 Hybrid Methods
+#### 🦾 Hybrid Methods
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
@@ -324,7 +311,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding**](https://arxiv.org/pdf/2401.00901.pdf)[![Star](https://img.shields.io/github/stars/TalalWasim/Video-GroundingDINO.svg?style=social&label=Star)](https://github.com/TalalWasim/Video-GroundingDINO) | Video-GroundingDINO | 12/2023 |  [code](https://github.com/TalalWasim/Video-GroundingDINO)   | arXiv |
 | [**A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot**](https://aclanthology.org/2023.emnlp-main.608/) | Video4096 | 05/2023 |  | EMNLP |
 
-### 🦾 Training-free Methods
+#### 🦾 Training-free Methods
 
 | Title                                                        |        Model        |  Date   | Code | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :--: | :---: |
