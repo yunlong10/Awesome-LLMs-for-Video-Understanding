@@ -32,9 +32,46 @@
 Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-
-[toc]
-
+- [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
+    - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
+  - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
+  - [😎 Vid-LLMs: Models](#-vid-llms-models)
+    - [📑 Citation](#-citation)
+      - [🗒️ Taxonomy 1](#️-taxonomy-1)
+        - [🕹️ Video Analyzer × LLM](#️-video-analyzer--llm)
+          - [LMM as Summarizer](#lmm-as-summarizer)
+          - [LLM as Manager](#llm-as-manager)
+        - [👾 Video Embedder × LLM](#-analyzer--embedder--llm)
+          - [LLM as Text Decoder](#llm-as-text-decoder)
+          - [LLM as Regressor](#llm-as-regressor)
+          - [LLM as Hidden Layer](#llm-as-hidden-layer)
+        - [🦾 (Analyzer + Embedder) × LLM](#-analyzer--embedder--llm)
+          - [LLM as Manager](#llm-as-manager-1)
+          - [LMM as Summarizer](#lmm-as-summarizer-1)
+          - [LLM as Text Decoder](#llm-as-text-decoder-1)
+          - [LLM as Regressor](#llm-as-regressor-1)
+          - [LLM as Hidden Layer](#llm-as-hidden-layer-1)
+      - [🗒️ Taxonomy 2](#️-taxonomy-2)
+        - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
+        - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
+        - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
+          - [Fine-tuning with Connective Adapters](#fine-tuning-with-connective-adapters)
+          - [Fine-tuning with Insertive Adapters](#fine-tuning-with-insertive-adapters)
+          - [Fine-tuning with Hybrid Adapters](#fine-tuning-with-hybrid-adapters)
+        - [🦾 Hybrid Methods](#-hybrid-methods)
+        - [Training-free Methods](#-training-free-methods)
+  - [Tasks, Datasets, and Benchmarks](#tasks-datasets-and-benchmarks)
+      - [Recognition and Anticipation](#recognition-and-anticipation)
+      - [Captioning and Description](#captioning-and-description)
+      - [Grounding and Retrieval](#grounding-and-retrieval)
+      - [Question Answering](#question-answering)
+      - [Video Instruction Tuning](#video-instruction-tuning)
+        - [Pretraining Dataset](#pretraining-dataset)
+        - [Fine-tuning Dataset](#fine-tuning-dataset)
+      - [Video-based Large Language Models Benchmark](#video-based-large-language-models-benchmark)
+  - [Contributing](#contributing)
+    - [🌟 Star History](#-star-history)
+    - [♥️ Contributors](#️-contributors)
 
 ## Why we need Vid-LLMs?
 
