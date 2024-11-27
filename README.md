@@ -353,7 +353,7 @@ If you find our survey useful for your research, please cite the following paper
 | Title                                                        |        Model        |  Date   | Code | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :--: | :---: |
 | [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/abs/2407.15841) |   SlowFast-LLaVA    | 07/2024 |  -   | arXiv |
-
+| [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/abs/2411.11066) | TS-LLaVA | 11/2024 | [code](https://github.com/tingyu215/TS-LLaVA) | arXiv |
 
 ---
 
