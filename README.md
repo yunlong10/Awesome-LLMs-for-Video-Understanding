@@ -45,7 +45,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
           - [LLM as Text Decoder](#llm-as-text-decoder)
           - [LLM as Regressor](#llm-as-regressor)
           - [LLM as Hidden Layer](#llm-as-hidden-layer)
-        - [🦾 (Analyzer + Embedder) × LLM](#-analyzer--embedder--llm)
+        - [🧭 (Analyzer + Embedder) × LLM](#-analyzer--embedder--llm)
           - [LLM as Manager](#llm-as-manager-1)
           - [LMM as Summarizer](#lmm-as-summarizer-1)
           - [LLM as Text Decoder](#llm-as-text-decoder-1)
@@ -53,7 +53,7 @@ Multiple minor updates will follow this major update. And the GitHub repository 
           - [LLM as Hidden Layer](#llm-as-hidden-layer-1)
       - [🗒️ Taxonomy 2](#️-taxonomy-2)
         - [🤖 LLM-based Video Agents](#-llm-based-video-agents)
-        - [👾 Vid-LLM Pretraining](#-vid-llm-pretraining)
+        - [🎥 Vid-LLM Pretraining](#-vid-llm-pretraining)
         - [👀 Vid-LLM Instruction Tuning](#-vid-llm-instruction-tuning)
           - [Fine-tuning with Connective Adapters](#fine-tuning-with-connective-adapters)
           - [Fine-tuning with Insertive Adapters](#fine-tuning-with-insertive-adapters)
@@ -243,7 +243,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700) |   OneLLM   | 12/2023 |      [code](https://github.com/csuhan/OneLLM)       | arXiv |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video   | 11/2023 |      [code](https://gpt4video.github.io)       | ACMMM |
 
-#### 🦾 (Analyzer + Embedder) × LLM
+#### 🧭 (Analyzer + Embedder) × LLM
 
 ##### LLM as Manager
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
@@ -289,7 +289,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**](https://arxiv.org/pdf/2409.20365) |   VideoINSTA   | 09/2024 |      [code](https://github.com/mayhugotong/VideoINSTA)       | EMNLP |
 
 
-#### 👾 Vid-LLM Pretraining
+#### 🎥 Vid-LLM Pretraining
 
 | Title                                                        |  Model  |  Date   |                        Code                        |  Venue  |
 | :----------------------------------------------------------- | :-----: | :-----: | :------------------------------------------------: | :-----: |
@@ -348,7 +348,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding**](https://arxiv.org/pdf/2401.00901.pdf)[![Star](https://img.shields.io/github/stars/TalalWasim/Video-GroundingDINO.svg?style=social&label=Star)](https://github.com/TalalWasim/Video-GroundingDINO) | Video-GroundingDINO | 12/2023 |  [code](https://github.com/TalalWasim/Video-GroundingDINO)   | arXiv |
 | [**A Video Is Worth 4096 Tokens: Verbalize Videos To Understand Them In Zero Shot**](https://aclanthology.org/2023.emnlp-main.608/) | Video4096 | 05/2023 |  | EMNLP |
 
-#### 🦾 Training-free Methods
+#### 💎 Training-free Methods
 
 | Title                                                        |        Model        |  Date   | Code | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :--: | :---: |
