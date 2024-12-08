@@ -455,6 +455,31 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ### ♥️ Contributors
 
+Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
+
+[Yunlong Tang](https://yunlong10.github.io) @ University of Rochester \
+[Jing Bi](https://jing-bi.github.io) @ University of Rochester \
+[Siting Xu](https://sai-01.github.io) @ Southern University of Science and Technology \
+[Luchuan Song](https://songluchuan.github.io) @ University of Rochester \
+[Susan Liang](https://liangsusan-git.github.io) @ University of Rochester \
+[Teng Wang](http://ttengwang.com/) @ The University of Hong Kong \
+[Daoan Zhang](https://dwan.ch) @ University of Rochester \
+[Jie An](https://pkuanjie.com) @ University of Rochester \
+[Jingyang Lin](https://jylin.me) @ University of Rochester \
+[Rongyi Zhu](https://rongyizhu.github.io) @ University of Rochester \
+[Ali Vosoughi](https://alivosoughi.com) @ University of Rochester \
+[Chao Huang](https://wikichao.github.io) @ University of Rochester \
+[Zeliang Zhang](https://zhangaipi.github.io) @ University of Rochester \
+[Pinxin Liu](https://andypinxinliu.github.io) @ University of Rochester \
+[Mingqian Feng](https://fmmarkmq.github.io) @ University of Rochester \
+[Feng Zheng](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) @ Southern University of Science and Technology \
+[Jianguo Zhang](https://faculty.sustech.edu.cn/?tagid=zhangjg&iscss=1&snapid=1&orderby=date&go=2&lang=en) @ Southern University of Science and Technology \
+[Ping Luo](http://luoping.me) @ University of Hong Kong \
+[Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) @ University of Rochester \
+[Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html) @ University of Rochester 
+
+
 <a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yunlong10/Awesome-LLMs-for-Video-Understanding" />
 </a>
+
