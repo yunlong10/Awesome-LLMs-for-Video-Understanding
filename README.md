@@ -218,6 +218,7 @@ If you find our survey useful for your research, please cite the following paper
  -->
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+|[**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](https://arxiv.org/pdf/2411.14505)|LLaVA-MR|11/2024|[code]()| arXiv |
 | [**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**](https://arxiv.org/abs/2406.12235) |   Holmes-VAD   | 06/2024 |      [code](https://holmesvad.github.io/)       | arXiv |
 | [**VideoLLM-online online video large language model for streaming video**](https://arxiv.org/abs/2406.11816) |   VideoLLM-online   | 06/2024 |      [code](https://showlab.github.io/videollm-online)       | CVPR |
 | [**HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision**](https://arxiv.org/abs/2404.09933) |   VLM4HOI   | 04/2024 |      [project page](https://sid2697.github.io/hoi-ref/)       | arXiv |
