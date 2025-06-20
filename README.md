@@ -8,7 +8,7 @@
 
 <h5 align="center">  
 
- **[Paper](https://arxiv.org/abs/2312.17432)** | **[Project Page](https://yunlong10.github.io/Awesome-LLMs-for-Video-Understanding/)**
+ **[Paper](https://ieeexplore.ieee.org/document/10982110)** |**[arXiv](https://arxiv.org/abs/2312.17432)**| **[Project Page](https://yunlong10.github.io/Awesome-LLMs-for-Video-Understanding/)**
 
 </h5>
 
