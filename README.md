@@ -131,6 +131,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**AutoAD III: The Prequel -- Back to the Pixels**](https://www.robots.ox.ac.uk/~vgg/publications/2024/Han24/han24.pdf) |   AutoAD III   | 04/2024 |                          -                           | CVPR  |
 | [**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**](https://arxiv.org/abs/2310.05863v2)[![Star](https://img.shields.io/github/stars/the-anonymous-bs/favor.svg?style=social&label=Star)](https://github.com/the-anonymous-bs/favor) |     FAVOR     | 10/2023 |  [code](https://github.com/the-anonymous-bs/favor)   | arXiv |
 | [**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)[![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |     VideoLLaMA2     | 06/2024 |  [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)   | arXiv |
+| [**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding**](https://arxiv.org/abs/2505.12605)|     Temporal Recipe     | 05/2025 |  [code](https://github.com/nguyentthong/temporal_recipe)   | arXiv |
 
 
 #### Fine-tuning with Insertive Adapters
