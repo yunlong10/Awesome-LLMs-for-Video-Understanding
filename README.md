@@ -378,6 +378,7 @@ If you find our survey useful for your research, please cite the following paper
 | **Kinetics-GEBC**  | [**GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval**](https://arxiv.org/abs/2204.00486v4) | 2022 |         [Link](https://github.com/showlab/geb-plus)         |  ECCV   |
 | **Kinetics-400**   | [**The Kinetics Human Action Video Dataset**](https://arxiv.org/abs/1705.06950) | 2017 |  [Link](https://paperswithcode.com/dataset/kinetics-400-1)  |    -    |
 | **VidChapters-7M** | [**VidChapters-7M: Video Chapters at Scale**](https://arxiv.org/abs/2309.13952) | 2023 |     [Link](https://antoyang.github.io/vidchapters.html)     | NeurIPS |
+| **BlackSwanSuite** | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 2025 |[Link](https://blackswan.cs.ubc.ca) |                CVPR |
 
 #### Captioning and Description
 | Name               |                            Paper                             | Date |                            Link                             |  Venue  |
@@ -420,6 +421,7 @@ If you find our survey useful for your research, please cite the following paper
 |**TVQA**|[**TVQA: Localized, Compositional Video Question Answering**](https://arxiv.org/abs/1809.01696)|2018|[Link](https://tvqa.cs.unc.edu/)|EMNLP|
 |**MAD-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
 |**Ego-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
+| **BlackSwanSuite** | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 2025 | [Link](https://blackswan.cs.ubc.ca) | CVPR |
 
 #### Video Instruction Tuning
 ##### Pretraining Dataset
@@ -452,6 +454,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**TempCompass: Do Video LLMs Really Understand Videos?**](https://arxiv.org/abs/2403.00476) [![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)](https://github.com/llyx97/TempCompass) | 03/2024 |           [code](https://github.com/llyx97/TempCompass)           |                ACL 2024                 |
 | [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/abs/2405.21075) [![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)](https://github.com/BradyFU/Video-MME) | 06/2024 |           [code](https://github.com/BradyFU/Video-MME)           |                -                 |
 | [**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**](https://arxiv.org/abs/2406.16338) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer) | 06/2024 |           [code](https://github.com/patrick-tssn/VideoHallucer)           |                -                 |
+| [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 06/2025 |           [code](https://github.com/sahithyaravi/BlackSwan)           |                CVPR 2025             |
 
 ## Contributing
 
