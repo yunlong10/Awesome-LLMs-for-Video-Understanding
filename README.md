@@ -295,6 +295,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | NaVid  | 02/2024 |     [project page](https://pku-epic.github.io/NaVid/)                         -      | RSS |
 | [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481) | VideoAgent  | 03/2024 |                              [project page](https://videoagent.github.io/)                               | arXiv |
 | [**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**](https://arxiv.org/pdf/2409.20365) |   VideoINSTA   | 09/2024 |      [code](https://github.com/mayhugotong/VideoINSTA)       | EMNLP |
+| [**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**](https://arxiv.org/pdf/2506.13654) [![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social&label=Star)](https://github.com/egolife-ai/Ego-R1) |   Ego-R1 Agent   | 06/2025 |      [code](https://github.com/egolife-ai/Ego-R1)       | arXiv |
 
 
 #### 🎥 Vid-LLM Pretraining
