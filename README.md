@@ -457,6 +457,8 @@ If you find our survey useful for your research, please cite the following paper
 | [**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**](https://arxiv.org/abs/2405.21075) [![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)](https://github.com/BradyFU/Video-MME) | 06/2024 |           [code](https://github.com/BradyFU/Video-MME)           |                -                 |
 | [**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**](https://arxiv.org/abs/2406.16338) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer) | 06/2024 |           [code](https://github.com/patrick-tssn/VideoHallucer)           |                -                 |
 | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 06/2025 |           [code](https://github.com/sahithyaravi/BlackSwan)           |                CVPR 2025             |
+| [**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**](https://arxiv.org/abs/2506.22385) | 08/2025 |          -          |                -             |
+
 
 ## Contributing
 
