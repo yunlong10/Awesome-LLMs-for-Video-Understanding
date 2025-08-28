@@ -217,6 +217,8 @@ If you find our survey useful for your research, please cite the following paper
 | [**ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst**](https://arxiv.org/abs/2305.16103) |   ChatBridge   | 05/2023 |      [code](https://iva-chatbridge.github.io)       | arXiv |
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726) |   Otter   | 05/2023 |      [code](https://github.com/Luodian/Otter)       | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) |   VideoLLM   | 05/2023 |      [code](https://github.com/cg1177/VideoLLM)       | arXiv |
+| [**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**](https://arxiv.org/abs/2505.23617) |   -   | 05/2025 |      [code](https://github.com/RAIVNLab/trajvit)       | ICCV 2025 |
+
 
 ##### LLM as Regressor
 
