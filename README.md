@@ -19,7 +19,7 @@
 
 [05/04/2025]
 
-🌟 Our Vid-LLM survey has been accepted by the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
+🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
 👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) \| [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
 
 [07/23/2024]
