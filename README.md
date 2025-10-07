@@ -16,6 +16,10 @@
 
 
 ## 📢 News
+[10/06/2025]
+
+🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
+
 
 [05/04/2025]
 
