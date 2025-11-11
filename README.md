@@ -368,7 +368,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title                                                        |        Model        |  Date   | Code | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :--: | :---: |
-| [**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**](https://arxiv.org/abs/2411.14401) |   DyTo    | 11/2024 |  -   | ICCV2025 |
+| [**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**](https://arxiv.org/abs/2411.14401) |   DyTo    | 11/2024 |  [code](https://github.com/Jam1ezhang/DYTO)   | ICCV2025 |
 | [**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**](https://arxiv.org/abs/2407.15841) |   SlowFast-LLaVA    | 07/2024 |  -   | arXiv |
 | [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/abs/2411.11066) | TS-LLaVA | 11/2024 | [code](https://github.com/tingyu215/TS-LLaVA) | arXiv |
 | [**Can Sound Replace Vision in LLaVA With Token Substitution?**](https://arxiv.org/pdf/2506.10416) | SoundCLIP | 08/2025 | [code](https://github.com/ali-vosoughi/SoundCLIP) | arXiv |
