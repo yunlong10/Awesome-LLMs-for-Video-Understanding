@@ -472,6 +472,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs**](https://arxiv.org/abs/2511.07250) |   MVU-Eval   | 11/2025 | [code](https://github.com/NJU-LINK/MVU-Eval) | NeurIPS DB |
 | [**OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs**](https://arxiv.org/abs/2510.10689) |   OmniVideoBench   | 10/2025 | [code](https://github.com/NJU-LINK/OmniVideoBench) | arXiv |
 | [**IF-VidCap: Can Video Caption Models Follow Instructions?**](https://arxiv.org/abs/2510.18726) |   IF-VidCap   | 10/2025 | [code](https://github.com/NJU-LINK/IF-VidCap) | arXiv |
+| [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/abs/2603.24329) |   GameplayQA   | 03/2026 | [code](https://github.com/HATS-ICT/GameplayQA) [project page](https://hats-ict.github.io/gameplayqa/) | ACL 2026 |
 
 ## Contributing
 
