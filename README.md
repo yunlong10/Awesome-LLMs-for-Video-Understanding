@@ -339,6 +339,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoLLaMA2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**](https://arxiv.org/abs/2406.07476)[![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VideoLLaMA2) |     VideoLLaMA2     | 06/2024 |  [code](https://github.com/DAMO-NLP-SG/VideoLLaMA2)   | arXiv |
 | [**PAVE: Patching and Adapting Video Large Language Models**](https://arxiv.org/abs/2503.19794) |   PAVE   | 03/2025 | [code](https://github.com/dragonlzm/PAVE) | CVPR |
 | [**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding**](https://arxiv.org/abs/2505.12605)|     Temporal Recipe     | 05/2025 |  [code](https://github.com/nguyentthong/temporal_recipe)   | arXiv |
+| [**Watch Before You Answer: Learning from Visually Grounded Post-Training**](https://arxiv.org/abs/2604.05117) | VidGround | 04/2026 | [code](https://github.com/reacher-z/vidground) | arXiv |
 
 
 ##### Fine-tuning with Insertive Adapters
@@ -512,4 +513,3 @@ Our project wouldn't be possible without the contributions of these amazing peop
 <a href="https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yunlong10/Awesome-LLMs-for-Video-Understanding" />
 </a>
-
