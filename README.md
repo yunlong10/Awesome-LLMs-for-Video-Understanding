@@ -482,7 +482,7 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.com/#yunlong10/Awesome-LLMs-for-Video-Understanding&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=yunlong10/Awesome-LLMs-for-Video-Understanding&type=Date)](https://star-history.dera.page/#yunlong10/Awesome-LLMs-for-Video-Understanding&type=date)
 
 ### ♥️ Contributors
 
