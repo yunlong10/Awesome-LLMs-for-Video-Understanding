@@ -475,6 +475,11 @@ If you find our survey useful for your research, please cite the following paper
 | [**IF-VidCap: Can Video Caption Models Follow Instructions?**](https://arxiv.org/abs/2510.18726) |   IF-VidCap   | 10/2025 | [code](https://github.com/NJU-LINK/IF-VidCap) | arXiv |
 | [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/abs/2603.24329) |   GameplayQA   | 03/2026 | [code](https://github.com/HATS-ICT/GameplayQA) [project page](https://hats-ict.github.io/gameplayqa/) | ACL 2026 |
 
+### Video Dataset Tools
+
+- **[Thordata Video Dataset Toolkit](https://github.com/Thordata/video-dataset-toolkit)**: Documentation and planned tooling for loading, validating, documenting, and preparing video datasets, including manifest and metadata workflows.
+
+
 ## Contributing
 
 We welcome everyone to contribute to this repository and help improve it. You can submit pull requests to add new papers, projects, and helpful materials, or to correct any errors that you may find. Please make sure that your pull requests follow the "Title|Model|Date|Code|Venue" format. Thank you for your valuable contributions!
