@@ -160,6 +160,7 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
 | :----------------------------------------------------------- | :-----------------: | :-----: | :----------------------------------------------------------: | :---: |
+| [**TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming**](https://arxiv.org/abs/2608.20958) | TLive-Omni | 08/2026 | [code](https://github.com/TaoLiveAIGC/TLive-Omni) | arXiv |
 | [**AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**](https://arxiv.org/abs/2410.03051) |   AuroraCap   | 10/2024 |      [project page](https://rese1f.github.io/aurora-web/)       | arXiv |
 | [**Artemis towards referential understanding in complex videos**](https://arxiv.org/abs/2406.00258) |   Artemis   | 06/2024 |      [code](https://github.com/qiujihao19/Artemis)       | arXiv |
 | [**EmoLLM multimodal emotional understanding meets large language models**](https://arxiv.org/abs/2406.16442) |   EmoLLM   | 06/2024 |      [code](https://github.com/yan9qu/EmoLLM)       | arXiv |
