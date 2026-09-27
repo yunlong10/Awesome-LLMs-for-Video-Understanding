@@ -341,6 +341,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**PAVE: Patching and Adapting Video Large Language Models**](https://arxiv.org/abs/2503.19794) |   PAVE   | 03/2025 | [code](https://github.com/dragonlzm/PAVE) | CVPR |
 | [**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding**](https://arxiv.org/abs/2505.12605)|     Temporal Recipe     | 05/2025 |  [code](https://github.com/nguyentthong/temporal_recipe)   | arXiv |
 | [**Watch Before You Answer: Learning from Visually Grounded Post-Training**](https://arxiv.org/abs/2604.05117) | VidGround | 04/2026 | [code](https://github.com/reacher-z/vidground) | arXiv |
+| [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038) | Spatial-Interactor | 09/2026 | [code](https://github.com/ZJU-OmniAI/Spatial-Interactor) | arXiv |
 
 
 ##### Fine-tuning with Insertive Adapters
