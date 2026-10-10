@@ -377,6 +377,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/abs/2411.11066) | TS-LLaVA | 11/2024 | [code](https://github.com/tingyu215/TS-LLaVA) | arXiv |
 | [**Can Sound Replace Vision in LLaVA With Token Substitution?**](https://arxiv.org/pdf/2506.10416) | SoundCLIP | 08/2025 | [code](https://github.com/ali-vosoughi/SoundCLIP) | arXiv |
 | [**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**](https://aclanthology.org/2025.emnlp-main.597/) [![Star](https://img.shields.io/github/stars/hukcc/D-CoDe.svg?style=social&label=Star)](https://github.com/hukcc/D-CoDe) | D-CoDe | 08/2025 | [code](https://github.com/hukcc/D-CoDe) [project page](https://hukcc.github.io/D-CoDe/) | EMNLP |
+| [**Foresight: Planning Future Perception in Streaming VLMs without Retraining**](https://arxiv.org/abs/2610.03123) | Foresight | 10/2026 | [code](https://github.com/thenaivekid/foresight) [project page](https://thenaivekid.github.io/foresight/) | arXiv |
 
 ---
 
