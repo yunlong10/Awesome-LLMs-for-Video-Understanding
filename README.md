@@ -223,6 +223,8 @@ If you find our survey useful for your research, please cite the following paper
 | [**Otter: A Multi-Modal Model with In-Context Instruction Tuning**](https://arxiv.org/abs/2305.03726) |   Otter   | 05/2023 |      [code](https://github.com/Luodian/Otter)       | arXiv |
 | [**VideoLLM: Modeling Video Sequence with Large Language Models**](https://arxiv.org/abs/2305.13292) |   VideoLLM   | 05/2023 |      [code](https://github.com/cg1177/VideoLLM)       | arXiv |
 | [**One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory**](https://arxiv.org/abs/2505.23617) |   -   | 05/2025 |      [code](https://github.com/RAIVNLab/trajvit)       | ICCV 2025 |
+| [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
+| [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762) | OneStreamer | 10/2026 | [code](https://github.com/MCG-NJU/OneStreamer) | arXiv |
 
 
 ##### LLM as Regressor
@@ -246,6 +248,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**TimeChat a time-sensitive multimodal large language model for long video understanding**](https://arxiv.org/abs/2312.02051) |   TimeChat   | 12/2023 |      [code](https://github.com/RenShuhuai-Andy/TimeChat)       | CVPR |
 | [**Self-Chained Image-Language Model for Video Localization and Question Answering**](https://arxiv.org/abs/2305.06988) |   SeViLA   | 11/2023 |      [code](https://github.com/Yui010206/SeViLA)       | NeurIPS |
 | [**VTimeLLM: Empower LLM to Grasp Video Moments**](https://arxiv.org/abs/2311.18445) |   VTimeLLM   | 11/2023 |      [code](https://github.com/huangb23/VTimeLLM)       | arXiv |
+| [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
 
 ##### LLM as Hidden Layer
  | Title                                                        |        Model        |  Date   |                             Code                             | Venue |
@@ -257,6 +260,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**Detours for navigating instructional videos**](https://arxiv.org/abs/2401.01823) |   VidDetours   | 01/2024 |      [code]()       | CVPR |
 | [**OneLLM: One Framework to Align All Modalities with Language**](https://arxiv.org/abs/2312.03700) |   OneLLM   | 12/2023 |      [code](https://github.com/csuhan/OneLLM)       | arXiv |
 | [**GPT4Video a unified multimodal large language model for lnstruction-followed understanding and safety-aware generation**](https://arxiv.org/abs/2311.16511) |   GPT4Video   | 11/2023 |      [code](https://gpt4video.github.io)       | ACMMM |
+| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
 
 #### 🧭 (Analyzer + Embedder) × LLM
 
@@ -303,6 +307,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**](https://arxiv.org/abs/2403.11481) | VideoAgent  | 03/2024 |                              [project page](https://videoagent.github.io/)                               | arXiv |
 | [**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**](https://arxiv.org/pdf/2409.20365) |   VideoINSTA   | 09/2024 |      [code](https://github.com/mayhugotong/VideoINSTA)       | EMNLP |
 | [**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**](https://arxiv.org/pdf/2506.13654) [![Star](https://img.shields.io/github/stars/egolife-ai/Ego-R1.svg?style=social&label=Star)](https://github.com/egolife-ai/Ego-R1) |   Ego-R1 Agent   | 06/2025 |      [code](https://github.com/egolife-ai/Ego-R1)       | arXiv |
+| [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224) | Video-o3 | 01/2026 | [code](https://github.com/MCG-NJU/Video-o3) | ICML 2026 |
 
 
 #### 🎥 Vid-LLM Pretraining
